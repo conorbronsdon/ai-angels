@@ -135,6 +135,42 @@ AgentSystems.ai — agentic/AI security), so his activity plausibly covers AI ev
 focus. A future pass could re-examine whether "AI angels" wants a stricter AI-primary bar, which would
 argue for removing him.
 
+## 2026-07-08 addendum: deferred-leads backlog pass (0 new adds)
+
+Worked all 11 names in `maintenance/leads-backlog.md`. None cleared the bar this pass —
+each entry now has a dated "Re-checked 2026-07-08" note recording what was fetched/searched
+and why it still falls short, so a future pass doesn't repeat the same searches. Nitesh
+Banta and Lee Robinson remain the two closest (Banta needs paywalled Crunchbase/PitchBook
+access to find a fresher deal than Feb 2024; Robinson has a first-person "I do angel
+investing" self-statement now but still no named/dated company).
+
+Also spot-checked two follow-up leads named in this file:
+- **Ali Partovi / Neo** — confirmed Neo is a VC firm (Wikipedia: "Neo (venture capital
+  firm)"), $320M+ raised across funds, $1B+ AUM per Forbes/TechCrunch (Apr 2025, Feb 2026).
+  Partovi's highest-profile 2026 activity (first check into Cursor/Anysphere, acquired by
+  SpaceX for $60B all-stock, announced June 2026) is fund capital, not personal-check
+  capital. Same exclusion reason as the seed pass — no personal-capital angle found. Not
+  added.
+- **Charlie Marsh** (devtools-angels re-check candidate) — Astral was acquired by OpenAI
+  (Mar 20, 2026) and Marsh joined OpenAI's Codex team; Tracxn still shows only 2 historical
+  angel investments with no dates. Thinner than most other deferred leads and now an
+  OpenAI employee, which typically restricts outside angel activity. Not pursued further;
+  removed from the "most likely to still be relevant" flag in the devtools-angels gap note
+  above — deprioritize in future passes.
+
+## 2026-07-08 freshness spot-check
+
+Picked 3 existing `angels.json` / README entries at random and re-fetched their
+`last_verified` source URLs to confirm no link rot:
+
+| Entry | Source URL | Result |
+|---|---|---|
+| Daniel Gross | digidai.github.io/2025/11/28/daniel-gross-ai-pioneer-fund-jerusalem-to-meta-superintelligence-deep-analysis/ | HTTP 200 |
+| Karri Saarinen | tracxn.com/d/people/karri-saarinen/__izf3sLU5YHX600NV3m8HKRyj0UfeColjifwytI2n2OY | HTTP 200 |
+| Josh Buckley | vcsheet.com/who/josh-buckley | HTTP 200 |
+
+All 3 resolved cleanly. No rot found; no entries need re-verification from this check alone.
+
 ## Legal/process note
 
 No text, descriptions, categorizations, or ordering from `swyxio/devtools-angels` or `Nutlope/aiangels`
