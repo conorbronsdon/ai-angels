@@ -1,0 +1,540 @@
+[
+  {
+    "name": "Guillermo Rauch",
+    "what_they_do": "Founder and CEO of Vercel; writes personal angel checks into developer-tools and AI-infrastructure startups alongside running his company.",
+    "focus": "AI infra, devtools",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/rauchg; vercel.com",
+    "notable_ai_investments": ["Perplexity", "ElevenLabs", "Black Forest Labs", "Polar"],
+    "last_verified_activity": "2025-12 — angel participation in Black Forest Labs' Series B round",
+    "source_urls": [
+      "https://tracxn.com/d/people/guillermo-rauch/__ZSJz6hqIenbvxSIeXinHhHCFkrMXLIVg3Ap5KH5vOkU",
+      "https://www.forbes.com/sites/richardnieva/2026/03/17/vercel-guillermo-rauch/"
+    ]
+  },
+  {
+    "name": "Logan Kilpatrick",
+    "what_they_do": "AI product lead (Google DeepMind, ex-OpenAI) who writes small personal angel checks into developer-facing AI startups.",
+    "focus": "devtools, applied AI",
+    "check_size": null,
+    "stage": "pre-seed, seed",
+    "reach": "x.com/OfficialLoganK; logank.ai",
+    "notable_ai_investments": ["The Prompting Company", "OpenPipe", "Yutori", "ego AI"],
+    "last_verified_activity": "2025-10 — angel investment in ego AI's seed round",
+    "source_urls": [
+      "https://tracxn.com/d/people/logan-kilpatrick/__KBmgRFAiGUnkk7GphPJoLNZwIixrohay6O-zU5wxatw",
+      "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/"
+    ]
+  },
+  {
+    "name": "Amjad Masad",
+    "what_they_do": "Founder and CEO of Replit; active personal angel investor in AI application and infrastructure startups.",
+    "focus": "applied AI, AI infra, devtools",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/amasad; replit.com",
+    "notable_ai_investments": ["Synthesia", "Runway", "Granola", "1001 AI"],
+    "last_verified_activity": "2025-11 — new investment in Tsuga; also participated in 1001 AI's $9M seed (Oct 2025)",
+    "source_urls": [
+      "https://tracxn.com/d/people/amjad-masad/__5qCpgiGyOlrP3O0ADNifxEEk5zbeE5WVFa_KtaAaImo",
+      "https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/"
+    ]
+  },
+  {
+    "name": "Naval Ravikant",
+    "what_they_do": "AngelList co-founder and one of the original solo super-angels; still writing personal checks decades into his angel career.",
+    "focus": "applied AI, AI infra",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/naval; angel.co",
+    "notable_ai_investments": ["Perplexity", "OpenSea", "Notion"],
+    "last_verified_activity": "2026-02 — personal investment in Quill Notes",
+    "source_urls": [
+      "https://tracxn.com/d/people/naval-ravikant/__zjY_8gmflKDzBLSv520Gkf9qM24BNrfFb_Vo_boSVAQ",
+      "https://aicounsel.substack.com/p/the-man-of-200-investments-naval"
+    ]
+  },
+  {
+    "name": "Jason Calacanis",
+    "what_they_do": "Angel investor, author of ANGEL, and host of This Week in Startups; runs The Syndicate, a co-investing club that lets accredited investors ride alongside his personal deals.",
+    "focus": "applied AI, devtools, consumer",
+    "check_size": "$25K-$100K per deal (his own stated range)",
+    "stage": "pre-seed, seed, Series A",
+    "reach": "x.com/Jason; thesyndicate.com; launch.co/apply",
+    "notable_ai_investments": ["Multiple AI-era Syndicate deals (undisclosed at press time)"],
+    "last_verified_activity": "2026 — actively deploying through The Syndicate co-investing platform, per his own site and recent interviews",
+    "source_urls": [
+      "https://thesyndicate.com/",
+      "https://capitaly.vc/blog/jason-calacanis-net-worth-and-angel-investing-playbook-for-founders/"
+    ]
+  },
+  {
+    "name": "Balaji Srinivasan",
+    "what_they_do": "Former Coinbase CTO and a16z GP; now an independent angel investor backing frontier AI and AI/crypto-adjacent infrastructure through his own capital and the Balaji Fund vehicle.",
+    "focus": "AI infra, applied AI",
+    "check_size": null,
+    "stage": "seed",
+    "reach": "x.com/balajis",
+    "notable_ai_investments": ["Perplexity", "Replit", "Anduril"],
+    "last_verified_activity": "2026-04 — personal seed investment in Objection.ai",
+    "source_urls": [
+      "https://tracxn.com/d/people/balaji-srinivasan/__ubKup8fdKovKyj_0LRNSMOLIu4OU-1kcjMhQHDzl2zM",
+      "https://venture.angellist.com/v/back/balaji-fund"
+    ]
+  },
+  {
+    "name": "Josh Buckley",
+    "what_they_do": "Former Product Hunt CEO and serial founder; runs Buckley Ventures, a solo-capitalist fund he leads personally with angel-speed decision-making.",
+    "focus": "applied AI, AI-native software",
+    "check_size": null,
+    "stage": null,
+    "reach": "joshbuckley.com",
+    "notable_ai_investments": ["Antimetal", "Jabbr", "Fractile"],
+    "last_verified_activity": "2025-10 — led Buckley Ventures' investment in Jabbr's $5M seed round",
+    "source_urls": [
+      "https://www.vcsheet.com/who/josh-buckley",
+      "https://tracxn.com/d/venture-capital/buckleyventures/__JCBodxxWC5LPNapXZ90QlQNENsMQ_V-kh8Ae89WTlc4"
+    ]
+  },
+  {
+    "name": "Sahil Lavingia",
+    "what_they_do": "Founder and CEO of Gumroad; long-running personal angel investor across creator-economy and applied-AI startups.",
+    "focus": "applied AI, creator tools",
+    "check_size": null,
+    "stage": "pre-seed, seed",
+    "reach": "sahillavingia.com (site); x.com/shl",
+    "notable_ai_investments": ["Monumental Labs", "Notion"],
+    "last_verified_activity": "2025-10 — new personal investment in Frec",
+    "source_urls": [
+      "https://tracxn.com/d/people/sahil-lavingia/__hTcSXob0ZSJTKuWtVn0Yn1wsgwOoi9no-3SqYxTTJLY"
+    ]
+  },
+  {
+    "name": "Immad Akhund",
+    "what_they_do": "Mercury CEO; longtime informal angel who formalized his check-writing into a personal $26M fund in 2025.",
+    "focus": "applied AI, fintech-adjacent AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/immad; mercury.com/investor-database/immad-akhund",
+    "notable_ai_investments": ["Applied Intuition", "Decagon", "Linear"],
+    "last_verified_activity": "2025-12 — investment in Zed's Series A",
+    "source_urls": [
+      "https://techcrunch.com/2025/05/12/mercurys-ceo-formalizes-bets-on-early-stage-founders-with-a-26m-fund/",
+      "https://tracxn.com/d/people/immad-akhund/__fqxavNvOR6AxNnYXCpAOjlRrX6gxBEXa4Ddbx9rrON0"
+    ]
+  },
+  {
+    "name": "Rahul Vohra",
+    "what_they_do": "Superhuman founder/CEO; co-runs Todd & Rahul's Angel Fund with Todd Goldberg, writing joint personal checks into developer and productivity-AI tools.",
+    "focus": "devtools, applied AI, SaaS",
+    "check_size": "$300K-$500K (fund's stated check range)",
+    "stage": "early-stage",
+    "reach": "toddandrahulangelfund.com",
+    "notable_ai_investments": ["Supabase", "Mercury", "Clearbit"],
+    "last_verified_activity": "2025-12 — investment in Double's Series A",
+    "source_urls": [
+      "https://www.toddandrahulangelfund.com/",
+      "https://tracxn.com/d/people/rahul-vohra/__wncJpiofZ5iqBzn2iJtCo7HxDYPirbRCe0VDzcooTi4"
+    ]
+  },
+  {
+    "name": "Aaron Levie",
+    "what_they_do": "Box CEO and prolific personal angel investor, mostly in enterprise, security, and AI-adjacent infrastructure companies.",
+    "focus": "AI infra, enterprise AI, security",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/levie",
+    "notable_ai_investments": ["Socket", "Method Security", "Antimetal"],
+    "last_verified_activity": "2025-11 — angel investment in Method Security's Series A",
+    "source_urls": [
+      "https://www.hustlefund.vc/post/angel-squad-aaron-levie-investments-what-boxs-co-founder-looks-for-when-writing-checks",
+      "https://tracxn.com/d/people/aaron-levie/__pc1F3JzikB6vDAn7ElbbbsFLWBeUgwImmi7ZwaLGG4k"
+    ]
+  },
+  {
+    "name": "Michael Grinich",
+    "what_they_do": "Founder and CEO of WorkOS; angel invests specifically in technical founders building dev tools, API platforms, and workflow SaaS.",
+    "focus": "devtools, AI infra",
+    "check_size": null,
+    "stage": "seed",
+    "reach": "grinich.com; x.com/grinich",
+    "notable_ai_investments": ["Polar", "Nylas-adjacent devtools bets"],
+    "last_verified_activity": "2025-06 — angel investment in Polar's seed round (alongside Guillermo Rauch and Zeno Rocha)",
+    "source_urls": [
+      "https://tracxn.com/d/people/michael-grinich/__5CpE-JmyypXUgkUiIpT-0dbZW8yDgu7Q0kuzIF9V4cs",
+      "https://taraniscapital.com/polar-raises-10m-to-power-payments-for-ai-saas-developers/"
+    ]
+  },
+  {
+    "name": "Zeno Rocha",
+    "what_they_do": "Founder and CEO of Resend; writes small personal checks into early-stage developer-first startups, several with AI angles.",
+    "focus": "devtools, AI infra",
+    "check_size": "small checks (self-described \"writes small checks in developer-first startups\")",
+    "stage": "pre-seed, seed",
+    "reach": "zenorocha.com/investing; x.com/zenorocha",
+    "notable_ai_investments": ["Polar", "VoidZero"],
+    "last_verified_activity": "2025-06 — angel investment in Polar's $10M seed round",
+    "source_urls": [
+      "https://zenorocha.com/investing",
+      "https://taraniscapital.com/polar-raises-10m-to-power-payments-for-ai-saas-developers/"
+    ]
+  },
+  {
+    "name": "Kenneth Auchenberg",
+    "what_they_do": "Former Stripe developer-platform lead; joined AlleyCorp as a Partner in 2025 to invest and incubate in AI and developer tools, on top of a pre-existing personal angel portfolio.",
+    "focus": "devtools, AI infra",
+    "check_size": null,
+    "stage": null,
+    "reach": "kenneth.io; x.com/auchenberg",
+    "notable_ai_investments": ["StackBlitz", "Linear", "Resend"],
+    "last_verified_activity": "2025 — joined AlleyCorp as Partner focused on AI/devtools investing and incubation",
+    "source_urls": [
+      "https://kenneth.io/",
+      "https://alleycorp.com/companies/kenneth-auchenberg/"
+    ]
+  },
+  {
+    "name": "David Mytton",
+    "what_they_do": "Founder/CEO of Console (developer newsletter and job board); angel invests small checks into developer-focused infrastructure startups he can help reach an audience.",
+    "focus": "devtools, AI infra",
+    "check_size": "$10K-$25K (his own stated typical check)",
+    "stage": "early-stage",
+    "reach": "davidmytton.blog/investments",
+    "notable_ai_investments": ["Mastra", "Resend", "Cased"],
+    "last_verified_activity": "2026 — active portfolio of 40 companies per his own investments page, including Mastra (AI agent framework)",
+    "source_urls": [
+      "https://davidmytton.blog/investments/",
+      "https://tracxn.com/d/people/david-mytton/__5sFV9JvJ1QXp50pj-USye10bSTA1KnUQ-s5Bk7HnWzk"
+    ]
+  },
+  {
+    "name": "Jordan Singer",
+    "what_they_do": "Founder/CEO of Mainframe (previously founded Diagram, acquired by Figma); personal angel investor in AI-native application startups.",
+    "focus": "applied AI, AI agents",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/jsngr",
+    "notable_ai_investments": ["Profound", "Paper"],
+    "last_verified_activity": "2025-06 — angel investment in Profound's $20M Series A",
+    "source_urls": [
+      "https://www.prnewswire.com/news-releases/profound-raises-20m-as-brands-race-from-blue-links-to-ai-answers-302486211.html",
+      "https://pitchbook.com/profiles/investor/616250-26"
+    ]
+  },
+  {
+    "name": "Des Traynor",
+    "what_they_do": "Co-founder and Chief Strategy Officer of Intercom (maker of Fin AI); one of Europe's most prolific personal angel investors, with 100+ startups in his portfolio.",
+    "focus": "applied AI, B2B SaaS",
+    "check_size": null,
+    "stage": "early-stage",
+    "reach": "destraynor.com/investments",
+    "notable_ai_investments": ["Notion", "Synthesia", "Levity"],
+    "last_verified_activity": "2026-01 — angel investment in BottleCapAI's seed round",
+    "source_urls": [
+      "https://destraynor.com/investments/",
+      "https://tracxn.com/d/people/des-traynor/__panz_tBs4dl3AwgtBT0Or2h2z_ws_RySXqYSEAUP8U0"
+    ]
+  },
+  {
+    "name": "Gokul Rajaram",
+    "what_they_do": "Longtime product executive (DoorDash, Square, Google AdSense) and one of Silicon Valley's most active personal angel investors, with a self-stated check range spanning micro to seven figures.",
+    "focus": "AI infra, applied AI, enterprise software",
+    "check_size": "$0-$50K up to $1M (his own stated range)",
+    "stage": "pre-seed to Series B",
+    "reach": "gokulrajaram.com",
+    "notable_ai_investments": ["Groq", "Runway", "Supabase", "Vercel"],
+    "last_verified_activity": "2026-05 — angel investment in District's seed round",
+    "source_urls": [
+      "https://www.gokulrajaram.com/",
+      "https://www.hustlefund.vc/post/angel-squad-gokul-rajaram-investments-what-the-godfather-of-adsense-teaches-us-about-product-led-investing"
+    ]
+  },
+  {
+    "name": "Ben Tossell",
+    "what_they_do": "Founder of Ben's Bites (AI newsletter); scouts for a16z and runs two of his own AI-focused investment vehicles (Ben's Bites Fund).",
+    "focus": "AI infra, applied AI, AI devtools",
+    "check_size": null,
+    "stage": "pre-seed, pre-company",
+    "reach": "x.com/bentossell; bensbites.com",
+    "notable_ai_investments": ["Supabase", "Etched", "Gamma", "Pika Labs"],
+    "last_verified_activity": "2026 — active investment from Ben's Bites Fund II in Createanything's Series A",
+    "source_urls": [
+      "https://www.bensbites.com/about",
+      "https://x.com/bentossell/status/1968666196019974434"
+    ]
+  },
+  {
+    "name": "Paul Copplestone",
+    "what_they_do": "Co-founder and CEO of Supabase; personal angel investor in AI-infrastructure and dev-tooling startups.",
+    "focus": "AI infra, devtools",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/kiwicopple",
+    "notable_ai_investments": ["Mistral AI", "Lovable", "AgentMail"],
+    "last_verified_activity": "2026-03 — angel investment in AgentMail's seed round",
+    "source_urls": [
+      "https://tracxn.com/d/people/paul-copplestone/__8zdFmWFh4rsqqcn6VrICAx-JXQVemr3jgOY0pnRTPck"
+    ]
+  },
+  {
+    "name": "Karri Saarinen",
+    "what_they_do": "Co-founder and CEO of Linear; occasional personal angel investor in productivity and AI-notetaking tools.",
+    "focus": "devtools, applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/karrisaarinen",
+    "notable_ai_investments": ["Granola", "Foxglove"],
+    "last_verified_activity": "2025-05 — angel investment in Granola's Series B",
+    "source_urls": [
+      "https://tracxn.com/d/people/karri-saarinen/__izf3sLU5YHX600NV3m8HKRyj0UfeColjifwytI2n2OY"
+    ]
+  },
+  {
+    "name": "Scott Belsky",
+    "what_they_do": "Product executive and Partner at A24 (technology/innovation); one of the most prolific named seed investors, self-described focus spanning AI, Web3, and commerce.",
+    "focus": "applied AI, consumer, creative tools",
+    "check_size": "$50K-$1M (his own stated range)",
+    "stage": "pre-seed to Series A",
+    "reach": "scottbelsky.com/investing-backup",
+    "notable_ai_investments": ["Extend AI", "Airtable"],
+    "last_verified_activity": "2025-06 — angel investment in Extend AI's Series A",
+    "source_urls": [
+      "https://www.scottbelsky.com/investing-backup/",
+      "https://tracxn.com/d/people/scott-belsky/__DI6btYC0jjXwEZPK2YMBpNoocACBk30tEf4945XR_3g"
+    ]
+  },
+  {
+    "name": "swyx (Shawn Wang)",
+    "what_they_do": "Editor of Latent Space, founder of Smol AI, and the original curator of the devtools-angels list; writes small personal checks in devtools and AI startups.",
+    "focus": "devtools, AI infra, applied AI",
+    "check_size": "$5K-$15K personal checks; $25K-$100K scout checks (his own stated ranges)",
+    "stage": "pre-seed, seed, Series A",
+    "reach": "swyx.io/portfolio; x.com/swyx",
+    "notable_ai_investments": ["Supabase", "Chroma", "Confident Security"],
+    "last_verified_activity": "2025-07 — angel investment in Confident Security's seed round",
+    "source_urls": [
+      "https://www.swyx.io/portfolio",
+      "https://github.com/swyxio/devtools-angels"
+    ]
+  },
+  {
+    "name": "David Cramer",
+    "what_they_do": "Co-founder of Sentry; active personal angel investor across devtools and applied-AI/compliance startups.",
+    "focus": "devtools, applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/zeeg",
+    "notable_ai_investments": ["Comp AI", "Blacksmith", "Vercel"],
+    "last_verified_activity": "2026-05 — angel investment in Blacksmith",
+    "source_urls": [
+      "https://pitchbook.com/profiles/investor/434386-00",
+      "https://www.prnewswire.com/news-releases/comp-ai-secures-2-6m-pre-seed-to-disrupt-soc-2-market-302519788.html"
+    ]
+  },
+  {
+    "name": "Anjney Midha",
+    "what_they_do": "Former a16z General Partner (led AI/infra investments including Mistral AI); departed in October 2025 to launch his own investment vehicle, AMP, pairing personal capital with AI compute access for founders.",
+    "focus": "AI infra, compute",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/anjneymidha",
+    "notable_ai_investments": ["Anthropic (angel, pre-a16z)", "Mistral AI", "Black Forest Labs"],
+    "last_verified_activity": "2025-10 — departed a16z to found AMP, a personal compute-plus-capital vehicle for frontier AI teams",
+    "source_urls": [
+      "https://suttonprep.substack.com/p/anjney-midha-launches-his-own-venture",
+      "https://digidai.github.io/2025/11/24/anjney-midha-a16z-gpu-kingmaker-oxygen-amp-deep-analysis/"
+    ]
+  },
+  {
+    "name": "Nat Friedman",
+    "what_they_do": "Former GitHub CEO; one of the most prolific individual AI angels of the last decade via the informal NFDG partnership with Daniel Gross. Joined Meta Superintelligence Labs in mid-2025 as an operating exec after Meta partially acquired NFDG's holdings — his capacity to keep writing new personal checks going forward is genuinely unclear and should be re-checked.",
+    "focus": "AI infra, applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/natfriedman",
+    "notable_ai_investments": ["Perplexity", "Stripe (early)", "Sumble"],
+    "last_verified_activity": "2025-10 — joint NFDG investment in Composite",
+    "source_urls": [
+      "https://www.datacenterdynamics.com/en/news/meta-in-talks-to-partially-acquire-vc-fund-nfdg-hire-nat-friedman-and-daniel-gross-for-ai-shakeup/",
+      "https://www.cbinsights.com/investor/nat-friedman-and-daniel-gross"
+    ]
+  },
+  {
+    "name": "Daniel Gross",
+    "what_they_do": "Co-founder of Safe Superintelligence and (with Nat Friedman) the NFDG angel partnership; joined Meta Superintelligence Labs in July 2025 to run compute strategy. Same caveat as Friedman applies — his active outside angel-investing status post-Meta is uncertain and worth re-verifying.",
+    "focus": "AI infra, applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/danielgross",
+    "notable_ai_investments": ["Perplexity", "ElevenLabs", "Pulse"],
+    "last_verified_activity": "2025-10 — joint NFDG investment in Composite",
+    "source_urls": [
+      "https://digidai.github.io/2025/11/28/daniel-gross-ai-pioneer-fund-jerusalem-to-meta-superintelligence-deep-analysis/",
+      "https://www.cbinsights.com/investor/nat-friedman-and-daniel-gross"
+    ]
+  },
+  {
+    "name": "Justin Kan",
+    "what_they_do": "Twitch co-founder and serial entrepreneur; long-running personal angel with a strong bias toward developer-productivity tools.",
+    "focus": "devtools, applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/justinkan",
+    "notable_ai_investments": ["Retool", "Deep Infra", "FLORA"],
+    "last_verified_activity": "2026-01 — angel investment in FLORA's Series A",
+    "source_urls": [
+      "https://tracxn.com/d/people/justin-kan/__csuZkZysYR0S7KxJrPfMcpFI3w8_iJcb7NVnmXB7w0M"
+    ]
+  },
+  {
+    "name": "Lachy Groom",
+    "what_they_do": "Early Stripe employee turned angel investor and Physical Intelligence co-founder; personal fund (LGF) explicitly focused on foundation models, gen-AI tooling, and bio-AI.",
+    "focus": "AI infra, applied AI, bio-AI",
+    "check_size": null,
+    "stage": "pre-seed, seed",
+    "reach": "x.com/lachygroom",
+    "notable_ai_investments": ["Netic", "Airbound"],
+    "last_verified_activity": "2025-10 — angel investment in Airbound's seed round",
+    "source_urls": [
+      "https://tracxn.com/d/venture-capital/lachy-groom-fund/__w0zXSUh-Q_FAgzpvGVUnynBk2kSR593lwo3oTskiDqQ"
+    ]
+  },
+  {
+    "name": "Zach Perret",
+    "what_they_do": "Plaid CEO and co-founder; personal angel investor with a fintech core that has extended into AI/health applications.",
+    "focus": "applied AI, fintech-adjacent AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/zperret",
+    "notable_ai_investments": ["Lassie"],
+    "last_verified_activity": "2026-06 — angel investment in Lassie",
+    "source_urls": [
+      "https://tracxn.com/d/people/zach-perret/__uQZfSdJAGSDDGdLeEfk9nCelN0K46VKQ5RVvpquyKE4"
+    ]
+  },
+  {
+    "name": "Aditya Agarwal",
+    "what_they_do": "Investor at South Park Commons (Managing Partner); combines SPC's platform with personal angel allocations into AI and data-infrastructure startups.",
+    "focus": "AI infra, data infrastructure",
+    "check_size": null,
+    "stage": "pre-seed to Series C",
+    "reach": "southparkcommons.com",
+    "notable_ai_investments": ["Bauplan", "Lica World"],
+    "last_verified_activity": "2025-05 — investment in Be Clinical's seed round",
+    "source_urls": [
+      "https://tracxn.com/d/people/aditya-agarwal/__Xrv5waEPGzxL3Vv4sOHEZbf69KucXEyZE_MTIy9tcLM"
+    ]
+  },
+  {
+    "name": "Kyle Vogt",
+    "what_they_do": "Cruise co-founder, now building The Bot Company; personal angel investor explicitly focused on autonomous vehicles, robotics, and AI.",
+    "focus": "AI infra, robotics",
+    "check_size": "$10K-$500K (his own stated range)",
+    "stage": null,
+    "reach": "x.com/kvogt",
+    "notable_ai_investments": ["Odyssey AI", "Odys Aviation"],
+    "last_verified_activity": "2026-06 — angel investor in Odyssey AI's $310M Series B (world-model startup)",
+    "source_urls": [
+      "https://angelinvestorsnetwork.com/venture-capital/odyssey-ai-310m-series-b-amazon-world-model-2026",
+      "https://tracxn.com/d/people/kyle-vogt/___fFepC1jzNdH8ANpxsxLy_zFX8OdSPsxEQiUBgC0Z8Y"
+    ]
+  },
+  {
+    "name": "Bilawal Sidhu",
+    "what_they_do": "Ex-Google XR/3D-maps product lead, TED AI curator, and venture scout for a16z; personally invests alongside scouting in generative AI and spatial-intelligence startups.",
+    "focus": "applied AI, generative media, spatial computing",
+    "check_size": null,
+    "stage": null,
+    "reach": "bilawal.ai",
+    "notable_ai_investments": ["Pika Labs", "Convai", "Hedra"],
+    "last_verified_activity": "2025-2026 — active a16z venture scout across generative AI/spatial-intelligence deals (specific dated check not disclosed)",
+    "source_urls": [
+      "https://bilawal.ai/",
+      "https://harvardxr.com/people/bilawal-sidhu"
+    ]
+  },
+  {
+    "name": "Dylan Field",
+    "what_they_do": "Figma CEO and co-founder; one of the most active named personal angel investors among founder-operators, spanning AI, devtools, and Web3.",
+    "focus": "AI infra, devtools, applied AI",
+    "check_size": "$10K-$500K (his own stated range)",
+    "stage": "seed, Series A, Series B",
+    "reach": "x.com/zoink",
+    "notable_ai_investments": ["Arcadia Medicine", "PlayerZero", "Huxe"],
+    "last_verified_activity": "2026-05 — angel investment in Revel",
+    "source_urls": [
+      "https://www.hustlefund.vc/post/angel-squad-dylan-field-investments-the-thiel-fellow-who-built-figma-from-a-dorm-room-idea-to-a-68-billion-ipo",
+      "https://pitchbook.com/profiles/investor/224513-92"
+    ]
+  },
+  {
+    "name": "Tobi Lütke",
+    "what_they_do": "Shopify founder and CEO; personal angel investor with a portfolio that has increasingly tilted toward AI-native tools as he's pushed Shopify itself to adopt AI aggressively.",
+    "focus": "applied AI, AI infra",
+    "check_size": null,
+    "stage": "seed",
+    "reach": "x.com/tobi",
+    "notable_ai_investments": ["Perplexity", "Promptfoo"],
+    "last_verified_activity": "2026-03 — Promptfoo (seeded alongside a16z) exited/acquired, confirming an active earlier seed-stage angel position",
+    "source_urls": [
+      "https://www.hustlefund.vc/post/angel-squad-tobi-lutke-investments-what-the-shopify-ceo-bets-on-when-hes-not-reinventing-commerce"
+    ]
+  },
+  {
+    "name": "Charlie Songhurst",
+    "what_they_do": "Former Microsoft head of corporate strategy; now one of the highest-volume individual angel investors in tech, treating investing as systematic mapping of emerging technology frontiers including AI.",
+    "focus": "AI infra, applied AI, frontier tech",
+    "check_size": null,
+    "stage": null,
+    "reach": "no public pitch channel found — reach via co-investors/intros",
+    "notable_ai_investments": ["Light (AI finance automation)"],
+    "last_verified_activity": "2026-06 — new investment in Wassist",
+    "source_urls": [
+      "https://tracxn.com/d/people/charlie-songhurst/__ypulK7P-iDSHMXWI3D20ZSJIFXKepDXnU0Ig8Y9aq5Q",
+      "https://www.thesaasnews.com/news/light-raises-30-million-in-series-a/"
+    ]
+  },
+  {
+    "name": "Jared Palmer",
+    "what_they_do": "Creator of Turborepo and v0.app, former VP of AI at Vercel (now at Xbox); personal angel investor in developer-facing AI startups.",
+    "focus": "devtools, AI infra",
+    "check_size": null,
+    "stage": null,
+    "reach": "jaredpalmer.com",
+    "notable_ai_investments": ["Polar"],
+    "last_verified_activity": "2025-06 — angel investment in Polar's seed round",
+    "source_urls": [
+      "https://jaredpalmer.com/",
+      "https://taraniscapital.com/polar-raises-10m-to-power-payments-for-ai-saas-developers/"
+    ]
+  },
+  {
+    "name": "Chris Ré",
+    "what_they_do": "Stanford CS professor (Stanford AI Lab) and co-founder of Together AI/Snorkel; angel invests in data-centric AI infrastructure startups that grow out of his research network.",
+    "focus": "AI infra, data-centric AI",
+    "check_size": null,
+    "stage": "seed",
+    "reach": "cs.stanford.edu/~chrismre",
+    "notable_ai_investments": ["Bauplan", "1001"],
+    "last_verified_activity": "2025-04 — angel investment in Bauplan's seed round",
+    "source_urls": [
+      "https://tracxn.com/d/people/chris-re/__8UZ9h4Nznnub1QrraOKFkTmZd1X4FzG37y3iWxiDM6w",
+      "https://techrevolt.news/articles/how-1001-raised-30-million-to-bring-sovereign-ai-to-ports-airports-and-energy-grids"
+    ]
+  },
+  {
+    "name": "Thomas Wolf",
+    "what_they_do": "Co-founder and Chief Science Officer of Hugging Face; prolific personal angel investor in AI, robotics, and deep-tech startups emerging from the European ecosystem.",
+    "focus": "AI infra, open-source AI, robotics",
+    "check_size": null,
+    "stage": null,
+    "reach": "x.com/Thom_Wolf; thomwolf.io",
+    "notable_ai_investments": ["Lovable", "Bioptimus", "UMA (humanoid robotics)", "Qutwo"],
+    "last_verified_activity": "2026-07 — angel backer of UMA, a humanoid-robotics startup that just launched",
+    "source_urls": [
+      "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
+      "https://tracxn.com/d/people/thomas-wolf/__EOx3UNX75GRhSrqsaDZ-AyPPnto6Fwk12N56zAXTo1s"
+    ]
+  }
+]
