@@ -19,9 +19,11 @@ candidates below that are one good search away from being upgradeable.
 
 **Now VC fund partners, not personal angels** (their checks run through institutional LP capital, which
 fails the inclusion bar unless they explicitly frame it as a personal syndicate):
-- **Elad Gil** — historically THE archetypal solo super-angel, but in mid-2025 formalized Gil Ventures IV
-  into a ~$3B institutional fund. Worth revisiting if he starts framing new deals as personal angel checks
-  again; for now the vehicle reads as a VC fund.
+- ~~**Elad Gil**~~ — UPDATE 2026-07-07: added to the list after a follow-up verification pass found he
+  still writes personal angel checks that precede fund involvement (e.g., Frame Security, a $50M round he
+  first backed personally before Gil Capital followed on, May 2026). Originally excluded here in the seed
+  pass as a VC fund partner (Gil Ventures IV, ~$3B institutional vehicle formalized mid-2025) — both things
+  are true; he clears the bar via the personal-check side of his activity. See `data/angels.json`.
 - **Alessio Fanelli** — Partner/CTO-in-Residence at Decibel Ventures; his recent seed leads (Smol.ai,
   Brightwave) are attributed to the firm, not personal capital. Co-hosts Latent Space with swyx (who *is*
   included).
@@ -119,6 +121,19 @@ fails the inclusion bar unless they explicitly frame it as a personal syndicate)
    prioritized on higher-probability AI-focused candidates instead. A future pass could triage these
    quickly (most likely to still be relevant: Charlie Marsh given his Astral/Ruff/uv profile, though he's
    now a founder himself and may not have personal angel evidence either).
+
+## 2026-07-07 addendum: Luke Tucker added
+
+Added Luke Tucker (Director of Marketing, Cisco/Outshift; Hustle Fund Angel Squad member since Oct 2023)
+on Conor's direct request, verified against his self-published post
+(https://luketucker.com/angel-investing-and-angel-squad/, dated 2025-11-10 — well inside the ~18-month
+window) plus a corroborating search for continued 2026 activity. **Judgment call, flagged rather than
+silently decided:** his stated focus is cybersecurity-primary with "agentic development companies" as a
+named secondary category, not an AI-first thesis. He clears the bar here because several of his named
+investments are squarely AI (CoreWeave — AI infra/GPU cloud; Kilo Code — AI coding agent; Detections.ai,
+AgentSystems.ai — agentic/AI security), so his activity plausibly covers AI even though it isn't his sole
+focus. A future pass could re-examine whether "AI angels" wants a stricter AI-primary bar, which would
+argue for removing him.
 
 ## Legal/process note
 

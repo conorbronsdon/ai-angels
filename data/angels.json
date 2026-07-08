@@ -536,5 +536,32 @@
       "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
       "https://tracxn.com/d/people/thomas-wolf/__EOx3UNX75GRhSrqsaDZ-AyPPnto6Fwk12N56zAXTo1s"
     ]
+  },
+  {
+    "name": "Elad Gil",
+    "what_they_do": "Independent technology investor and one of the most prolific solo super-angels in tech; now also runs the Gil Ventures IV / Gil Capital vehicle, writing personal checks that often precede fund involvement.",
+    "focus": "AI infra, applied AI",
+    "check_size": "$250K-$20M (Gil Ventures IV range); earlier personal angel checks smaller",
+    "stage": "pre-seed to Series D",
+    "reach": "eladgil.com; blog.eladgil.com",
+    "notable_ai_investments": ["Anthropic", "Perplexity", "Mistral AI", "Harvey"],
+    "last_verified_activity": "2026-05 — initially invested as an angel, then via Gil Capital, in Frame Security's $50M round (emerged from stealth May 11, 2026)",
+    "source_urls": [
+      "https://www.calcalistech.com/ctechnews/article/s1idmmtabx",
+      "https://www.thevccorner.com/p/elad-gil-solo-super-angel-solo-gp"
+    ]
+  },
+  {
+    "name": "Luke Tucker",
+    "what_they_do": "Director of Marketing at Cisco incubator Outshift (formerly VP Marketing at Lightspin, acquired by Cisco); active member of Hustle Fund's Angel Squad since October 2023, blending passive and active personal angel checks.",
+    "focus": "cybersecurity, agentic AI devtools",
+    "check_size": "$1K-$5K passive, $5K-$25K active (his own stated ranges)",
+    "stage": "seed (primarily), Series A",
+    "reach": "x.com/luketucker; luketucker.com",
+    "notable_ai_investments": ["CoreWeave", "Kilo Code", "Detections.ai", "AgentSystems.ai"],
+    "last_verified_activity": "2025-11 — self-published post detailing 32 startup investments via Angel Squad, including named AI/agentic-dev deals",
+    "source_urls": [
+      "https://luketucker.com/angel-investing-and-angel-squad/"
+    ]
   }
 ]
