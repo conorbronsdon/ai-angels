@@ -97,9 +97,9 @@ Reviewed weekly. PRs meeting the criteria merge fast.
 
 ## Disclaimer
 
-_ A listing is not an endorsement, and nothing here is investment or fundraising advice. All data is compiled from public sources; corrections welcome via issue or PR.
+A listing is not an endorsement, and nothing here is investment or fundraising advice. All data is compiled from public sources; corrections welcome via issue or PR.
 
-This is a personal project done in my individual capacity. It is not affiliated with, authorized by, or endorsed by my employer in any way. All views, opinions, and statements expressed on this account are solely my own and are made in my personal capacity. They do not reflect, and should not be construed as reflecting, the views, positions, or policies of my employer. This account is not affiliated with, authorized by, or endorsed by my employer in any way. _
+This is a personal project done in my individual capacity. It is not affiliated with, authorized by, or endorsed by my employer in any way. All views, opinions, and statements expressed on this account are solely my own and are made in my personal capacity. They do not reflect, and should not be construed as reflecting, the views, positions, or policies of my employer. This account is not affiliated with, authorized by, or endorsed by my employer in any way.
 
 ## License
 
