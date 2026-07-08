@@ -108,5 +108,3 @@ This is a personal project done in my individual capacity. It is not affiliated 
 ## About
 
 Maintained by [Conor Bronsdon](https://conorbronsdon.com) — angel investor in AI infrastructure and developer tools, host of [Chain of Thought](https://chainofthought.show/). More at [github.com/conorbronsdon](https://github.com/conorbronsdon) · [X](https://x.com/ConorBronsdon) · [LinkedIn](https://www.linkedin.com/in/conorbronsdon/).
-
-This is a personal open-source project; it isn't affiliated with or endorsed by any employer or client.
