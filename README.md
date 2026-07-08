@@ -1,11 +1,31 @@
+<div align="center">
+
 # AI Angels
 
-A community-maintained list of active angel investors in AI: infrastructure, developer tools, agents, and applied AI.
+Community-maintained list of active angel investors in AI — verified, dated, PR-editable.
 
-Two good lists came before this one and both went quiet — [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) (archived) and [Nutlope/aiangels](https://github.com/Nutlope/aiangels) (inactive since 2024). This list picks up that work as an independent compilation: every entry here is verified against public sources, and every entry carries a last-verified date so you can tell fresh data from stale.
+[![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-angels?style=social)](https://github.com/conorbronsdon/ai-angels/stargazers)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
+[![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
+
+**41 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
+
+</div>
+
+---
+
+Two good lists came before this one and both went quiet — [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) (archived) and [Nutlope/aiangels](https://github.com/Nutlope/aiangels) (inactive since 2024). This one picks up that work as an independent compilation: every entry is checked against public sources and carries a last-verified date, so you can tell fresh data from stale.
 
 **For founders:** find angels who write checks in your space, with check sizes and how to reach them.
 **For angels:** [add yourself](#add-an-angel) with a PR.
+
+## Add an angel
+
+Open a PR that adds one row to the table, with a source link for the activity claim. Adding yourself is welcome and encouraged — say so in the PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for the field format.
+
+## Focus areas
+
+AI infra 26 · devtools 18 · applied AI 27 — many angels span more than one, so these overlap rather than sum to 41. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 ## The list
 
@@ -66,10 +86,6 @@ An entry stays on the list when all of these hold:
 
 Contact details are limited to channels the person publishes for pitches (their own site, a public form, an X handle). We never list scraped emails.
 
-## Add an angel
-
-Open a PR that adds one row to the table, with a source link for the activity claim. Adding yourself is welcome and encouraged — say so in the PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for the field format.
-
 ## Removal and staleness
 
 - Anyone listed can opt out: open an issue or email the maintainer, and the entry comes down, no questions asked.
@@ -77,7 +93,7 @@ Open a PR that adds one row to the table, with a source link for the activity cl
 
 ## Maintenance
 
-Reviewed on a regular weekly cadence. PRs meeting the criteria merge fast.
+Reviewed weekly. PRs meeting the criteria merge fast.
 
 ## Disclaimer
 
@@ -89,6 +105,8 @@ This is a personal project done in my individual capacity. It is not affiliated 
 
 [CC0 1.0](LICENSE) — public domain. Reuse the data freely.
 
----
+## About
 
-Maintained by [Conor Bronsdon](https://github.com/conorbronsdon) — angel investor in AI infrastructure and developer tools, host of [Chain of Thought](https://chainofthought.show/).
+Maintained by [Conor Bronsdon](https://conorbronsdon.com) — angel investor in AI infrastructure and developer tools, host of [Chain of Thought](https://chainofthought.show/). More at [github.com/conorbronsdon](https://github.com/conorbronsdon) · [X](https://x.com/ConorBronsdon) · [LinkedIn](https://www.linkedin.com/in/conorbronsdon/).
+
+This is a personal open-source project; it isn't affiliated with or endorsed by any employer or client.
