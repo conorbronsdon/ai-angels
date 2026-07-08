@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <style>
+      .mono { font-family: Consolas, 'Cascadia Mono', Menlo, Monaco, monospace; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="640" fill="#F7F5F0"/>
+
+  <!-- accent bar -->
+  <rect x="80" y="164" width="72" height="6" fill="#7C3AED"/>
+
+  <!-- title -->
+  <text x="78" y="252" class="mono" font-size="64" font-weight="700" fill="#18181B">AI Angels</text>
+
+  <!-- subtitle -->
+  <text x="80" y="298" class="mono" font-size="21" fill="#52525B">Verified active angel investors in AI —</text>
+  <text x="80" y="328" class="mono" font-size="21" fill="#52525B">community-maintained</text>
+
+  <!-- url -->
+  <text x="80" y="558" class="mono" font-size="19" fill="#71717A">github.com/conorbronsdon/ai-angels</text>
+
+  <!-- terminal-style card -->
+  <g>
+    <rect x="700" y="130" width="500" height="340" rx="10" fill="#1B1B2C"/>
+    <!-- window chrome -->
+    <rect x="700" y="130" width="500" height="40" rx="10" fill="#232336"/>
+    <rect x="700" y="150" width="500" height="20" fill="#232336"/>
+    <circle cx="724" cy="150" r="6" fill="#FF5F56"/>
+    <circle cx="748" cy="150" r="6" fill="#FFBD2E"/>
+    <circle cx="772" cy="150" r="6" fill="#27C93F"/>
+    <text x="950" y="155" class="mono" font-size="13" fill="#8E8EA0" text-anchor="middle">data/angels.json</text>
+
+    <!-- body -->
+    <text x="724" y="205" class="mono" font-size="16" fill="#5EE6A6">$ jq length data/angels.json</text>
+    <text x="724" y="234" class="mono" font-size="16" font-weight="700" fill="#C9A6FF">41</text>
+
+    <text x="724" y="272" class="mono" font-size="16" fill="#5EE6A6">$ jq '.[0].last_verified_activity'</text>
+    <text x="724" y="298" class="mono" font-size="15" fill="#D8D8E3">"2025-12 — angel participation</text>
+    <text x="724" y="320" class="mono" font-size="15" fill="#D8D8E3">in Black Forest Labs' Series B"</text>
+
+    <text x="724" y="358" class="mono" font-size="16" fill="#8E8EA0">Every row: dated + sourced</text>
+    <text x="724" y="384" class="mono" font-size="16" fill="#8E8EA0">Add yours via PR</text>
+
+    <rect x="724" y="404" width="10" height="18" fill="#5EE6A6"/>
+  </g>
+</svg>
