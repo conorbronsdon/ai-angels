@@ -97,6 +97,29 @@ more digging (especially anyone with a Crunchbase/PitchBook paywall in the way).
   since Oct 2023, Lucius AI interim CTO since Apr 2025) are both operating roles, not
   investing. No recent angel activity found. Still deferred.
 
+- **Jonathan Cornelissen** (Co-founder & CEO, DataCamp) — **added 2026-07-31, not from the
+  aiangels.fund extraction**; surfaced independently. Self-described "entrepreneur + angel
+  investor" on jonathancornelissen.com, angel investing since 2018, with a "Why I invested
+  in X" post on Medium for each check — unusually transparent for an angel. Two problems
+  against the inclusion bar. **(1) AI focus is thin:** the four investments he features on
+  his homepage are Clever Girl Finance (financial education), Perch.fit (connected fitness),
+  Two Front (orthodontics), and inflights — none AI. His CV page adds Kyso.io, Constrafor,
+  and **segments.ai** (data labeling for computer vision); Tracxn adds **NannyML** (ML model
+  monitoring). So the ML-adjacent checks are a minority of a small portfolio.
+  **(2) Staleness is severe:** the most recent *dated* check anywhere in public sources is
+  NannyML's seed, **30 Oct 2020** (~68 months, vs. the 22-month staleness that deferred
+  Nitesh Banta above). Tracxn's profile, last updated 16 Jul 2026, lists two portfolio
+  companies and shows no 2025-26 investing activity; his CV page is still "© 2022." The only
+  2025 event is NannyML's **acquisition exit (9 Jun 2025)** — an exit is not evidence of
+  investing activity, and using it as a "last verified" source would misrepresent the field.
+  **Re-check path:** Conor accepted him as a Chain of Thought guest on 2026-07-31 (open-source
+  models as the production hedge; inbound via James Robinson, Weatherfield Strategies). Ask
+  directly on the prep call whether he's written AI checks in 2025-26 that he hasn't published.
+  A named recent check plus any public confirmation clears both problems at once, and the
+  entry ships with an announcement tweet per the convention in `coverage-notes.md`.
+  Reach if he clears: [jonathancornelissen.com](https://www.jonathancornelissen.com) ·
+  [@CornelissenJo](https://x.com/cornelissenjo).
+
 ## Deferred — insufficient or contradictory evidence
 
 - **Steven Tey** (Founder/CEO, Dub.co; ex-Vercel Senior Developer Advocate) — no evidence

@@ -7,6 +7,26 @@ database, not git, so it yielded zero names). All other candidates came from ind
 (2025-2026 press, aggregator profiles, personal sites/blogs, X). Every included entry has a dated,
 public, ~18-month-recent activity signal and at least one source URL that is not the predecessor repos.
 
+## Every accepted addition ships with an announcement tweet
+
+Convention set 2026-07-31. When an angel is added to the list, draft a tweet from @ConorBronsdon before
+the change is announced anywhere else:
+
+- **Tag the angel** by their X handle (the same one in the entry's Reach column). If they have no X
+  handle, name them and link the site from the Reach column instead — don't invent a tag.
+- **Name two or three of their investments**, drawn from the entry's Notable AI investments column so
+  the tweet and the row can't drift apart.
+- **Say what makes them worth following**, in one line — the thing that made them clear the bar.
+- **Link the repo.**
+
+Draft the tweet at the same time as the row, not after. Two reasons: the tweet is the growth loop for
+the list (a tagged angel is the most likely person to repost it), and writing the "why they're worth
+following" line is a last check on whether the entry actually clears the inclusion bar — if that line
+is hard to write from the sources, the entry is probably thin.
+
+Post only after the entry is merged, so the link resolves to a row that exists. Drafted tweets awaiting
+a post go in `writing/social-queue.md` in personal-context, which is where `/social` picks them up.
+
 ## Why only ~39, not the full 55
 
 Time/effort was spent verifying each candidate individually rather than bulk-importing names from
