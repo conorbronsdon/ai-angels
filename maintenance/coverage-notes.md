@@ -155,6 +155,32 @@ AgentSystems.ai — agentic/AI security), so his activity plausibly covers AI ev
 focus. A future pass could re-examine whether "AI angels" wants a stricter AI-primary bar, which would
 argue for removing him.
 
+## 2026-08-03 addendum: Nick Cobb — second criterion-2 judgment call
+
+Cobb (@loyaltyarm) publicly offered to be listed. Criteria 1, 3 and 4 clear cleanly: Loyalty Ventures is
+a syndicate he runs solo (the criterion's second clause, not a fund deploying outside capital), cobbler.ws
+carries a current first-person investing statement, and every field is sourced to his own pages.
+
+**Judgment call, flagged rather than silently decided — the same shape as the Luke Tucker addendum above,
+and the second time criterion 2 has been the soft spot.** Loyalty Ventures' published thesis is
+"pioneering entrepreneurs tackling early detection and prevention of rare cancers, alongside supporting
+innovative American Dynamism companies"; the site's sectors are biotech, defense, aerospace, manufacturing,
+logistics and healthcare. AI is named nowhere. Four AI companies (Copy.ai, fireflies.ai, Placer.ai,
+Teleskope) appear inside 80+ holdings — demonstrated, but not a stated focus area.
+
+Cobb then confirmed to Conor directly that he makes selective AI investments. **That confirmation was
+private, and a private confirmation is not a citable source under criterion 4.** The row is therefore held
+in a draft PR (#5) pending one public restatement from him — a PR comment, a reply on X, or a line on
+cobbler.ws all work, with the site being the durable option. The focus field reads "American Dynamism,
+healthcare, selective applied AI" rather than leading with AI, matching how Tucker's cybersecurity-primary
+thesis is rendered.
+
+**The pattern worth watching:** both criterion-2 judgment calls so far arrived through a warm channel —
+Tucker on Conor's direct request, Cobb through a personal relationship and a public ask. Neither is wrong
+on its own, but a bar that only ever bends for people we know is the failure mode this list exists to
+avoid. If a third one lands, that is the signal to either tighten criterion 2 to AI-primary or to state
+plainly in the README that selective AI investors are in scope.
+
 ## 2026-07-08 addendum: deferred-leads backlog pass (0 new adds)
 
 Worked all 11 names in `maintenance/leads-backlog.md`. None cleared the bar this pass —

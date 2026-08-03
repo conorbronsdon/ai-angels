@@ -593,12 +593,12 @@
   {
     "name": "Nick Cobb",
     "what_they_do": "Self-taught engineer and operator; led Product and Engineering at Uber, Uber Eats and Kyte, now founder of HoneyBee. Invests personally through the Loyalty Ventures syndicate, which he runs solo.",
-    "focus": "applied AI, American Dynamism, healthcare",
+    "focus": "American Dynamism, healthcare, selective applied AI",
     "check_size": null,
     "stage": "post-revenue, seed & early",
     "reach": "cobbler.ws; x.com/loyaltyarm",
     "notable_ai_investments": ["Copy.ai", "fireflies.ai", "Placer.ai", "Teleskope"],
-    "last_verified_activity": "2026-08 — current first-person statement on his own site: \"I invest in companies that are post-revenue and raising seed or early rounds across a broad range of industries.\" NB: criterion 2 is the open question — Loyalty Ventures' published thesis names rare-cancer detection and American Dynamism, not AI. The four AI companies above are drawn from his own portfolio page and sit inside 80+ holdings, so AI is demonstrated but is not a stated focus area. No dated check surfaced from any public source.",
+    "last_verified_activity": "2026-08 — current first-person statement on his own site: \"I invest in companies that are post-revenue and raising seed or early rounds across a broad range of industries.\" Criterion 2 rests on a selective-AI-investing confirmation Cobb gave the maintainer directly; PENDING a public restatement before merge, since a private confirmation is not a citable source. Loyalty Ventures' published thesis names rare-cancer detection and American Dynamism, not AI, and the four AI companies above sit inside 80+ holdings — hence 'selective' rather than a leading AI focus.",
     "source_urls": [
       "https://cobbler.ws/",
       "https://loyaltyventures.vc/"
