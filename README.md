@@ -8,7 +8,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
-**42 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
+**43 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
 
 </div>
 
@@ -28,7 +28,7 @@ Open a PR that adds one row to the table, with a source link for the activity cl
 
 ## Focus areas
 
-AI infra 27 · devtools 19 · applied AI 27 — many angels span more than one, so these overlap rather than sum to 42. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 28 · devtools 20 · applied AI 27 — many angels span more than one, so these overlap rather than sum to 43. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 ## The list
 

@@ -576,5 +576,18 @@
     "source_urls": [
       "https://ahmadawais.com/"
     ]
+  },
+  {
+    "name": "Conor Bronsdon",
+    "what_they_do": "Host of the Chain of Thought podcast and the maintainer of this list; writes small personal angel checks into AI infrastructure and developer/creator tooling.",
+    "focus": "AI infra, dev & creator tools",
+    "check_size": "$1k-$10k",
+    "stage": "pre-seed & seed",
+    "reach": "conorbronsdon.com/angel-investing; x.com/ConorBronsdon",
+    "notable_ai_investments": ["Rad Intel", "Scam.ai"],
+    "last_verified_activity": "2026-07 — self-published angel-investing page stating an active pre-seed/seed thesis and named holdings",
+    "source_urls": [
+      "https://conorbronsdon.com/angel-investing/"
+    ]
   }
 ]
