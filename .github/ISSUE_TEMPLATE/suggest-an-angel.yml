@@ -1,0 +1,53 @@
+name: Suggest an angel
+description: Someone who belongs on the list, when you'd rather not open a pull request.
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggesting yourself is welcome and gets the same verification bar as anyone else.
+
+        Three things get suggestions declined, so they're worth checking first: personal capital (fund partners deploying only fund money belong in a VC directory), a stated or demonstrated AI focus, and public evidence of a check inside the last 18 months. An exit is not a check.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: focus
+    attributes:
+      label: Focus
+      description: Two to four words. What they actually invest in, not aspirations.
+      placeholder: AI infra, devtools
+    validations:
+      required: true
+  - type: input
+    id: reach
+    attributes:
+      label: Reach
+      description: A pitch channel the person publishes themselves — their site, a public form, an X handle. No scraped emails.
+    validations:
+      required: true
+  - type: input
+    id: investments
+    attributes:
+      label: Notable AI investments
+      description: Two to four, publicly verifiable.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source for recent activity
+      description: A public link dated inside the last 18 months — an announced check, a founder's thank-you, press, or a current "actively investing" statement from the person.
+    validations:
+      required: true
+  - type: checkboxes
+    id: self
+    attributes:
+      label: Optional
+      options:
+        - label: I'm suggesting myself.
+          required: false
