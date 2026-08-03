@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Add an angel (including yourself)
+    url: https://github.com/conorbronsdon/ai-angels/blob/main/CONTRIBUTING.md
+    about: Adding a row is a one-line pull request. CONTRIBUTING.md has the field format. Use the issue form below only if you'd rather not open a PR.

@@ -1,0 +1,43 @@
+name: Correction
+description: A field on an existing row is wrong or out of date.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A pull request is faster if you're comfortable with one — edit the row in README.md and open it. This form is for when you'd rather not.
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which field
+      options:
+        - Name / link
+        - Focus
+        - Check size
+        - Stage
+        - Reach
+        - Notable AI investments
+        - Last verified
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A public link backing the correction. Correcting your own row? Your own site works.
+    validations:
+      required: true

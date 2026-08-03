@@ -1,0 +1,35 @@
+name: Remove my entry
+description: You're listed and want off. No questions asked.
+title: "Remove: "
+labels: ["removal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your entry comes down without discussion. You don't owe anyone a reason, and nothing below asks for one.
+
+        If you'd rather not open a public issue, email the maintainer instead — contact is on [conorbronsdon.com](https://conorbronsdon.com).
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry
+      description: The name as it appears in the list.
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: dropdown
+    id: who
+    attributes:
+      label: You are
+      options:
+        - The person listed
+        - Authorized to act for the person listed
+    validations:
+      required: true
+  - type: textarea
+    id: anything_else
+    attributes:
+      label: Anything else
+      description: Optional. Leave blank if you just want the row gone.
+    validations:
+      required: false
