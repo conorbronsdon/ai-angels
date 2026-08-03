@@ -563,5 +563,18 @@
     "source_urls": [
       "https://luketucker.com/angel-investing-and-angel-squad/"
     ]
+  },
+  {
+    "name": "Ahmad Awais",
+    "what_they_do": "Founder and CEO of CommandCode.ai (formerly Langbase); open-source engineering leader who writes personal angel checks into AI, ML and developer-tools startups.",
+    "focus": "AI devtools, AI infra",
+    "check_size": null,
+    "stage": null,
+    "reach": "ahmadawais.com; x.com/MrAhmadAwais",
+    "notable_ai_investments": ["Replit", "Daytona", "Resend", "Gumroad"],
+    "last_verified_activity": "2026-08 — current first-person \"AI/ML/DevTools Angel Investor\" statement on his own site naming Replit, Resend, Daytona and Gumroad; page is current as of the CommandCode.ai rebrand. NB: the Daytona check is self-claimed — Daytona's own Series A announcement (2026-02-05) names four angels and Awais is not among them.",
+    "source_urls": [
+      "https://ahmadawais.com/"
+    ]
   }
 ]
