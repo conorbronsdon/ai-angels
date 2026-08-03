@@ -122,6 +122,27 @@ more digging (especially anyone with a Crunchbase/PitchBook paywall in the way).
 
 ## Deferred — insufficient or contradictory evidence
 
+- **Paul Klein IV** (Founder/CEO, Browserbase; Hawk Hill Ventures) — **added 2026-08-03.**
+  Fails criterion 1 on current evidence, not criterion 3. Activity is not in doubt: the
+  Hawk Hill memo "Looking back at 2025" (published 2025-12-30) states "**We** made 20 angel
+  investments across infrastructure, dev tools, vertical SaaS," and hawkhill.ventures/investments
+  lists ~45 companies across 2021–2025 including Series A checks (Endeavor AI, Extend AI,
+  TextQL, Nuon, Antimetal). AI focus is clearly present. The unresolved question is *whose
+  capital*. Three fetches — hawkhill.ventures, /investments, and the memo — none state
+  personal capital vs. outside LPs, the memo is written in the first-person plural with at
+  least one other person involved (George), and a search result separately describes Klein
+  as an a16z scout, which is explicitly someone else's money. Volume and stage look more
+  institutional than personal.
+  **Same shape as [Alana Goyal] and [Ali Partovi] above/below** — active investor, no
+  established personal-capital angle — and both were deferred, so adding Klein would
+  contradict two prior rulings.
+  **Unlock:** determine whether Hawk Hill is Klein's own capital or a vehicle with outside
+  LPs, and separate a16z scout checks from personal ones. A first-person statement from him
+  would settle it in one line. He is reachable — PR #49 on `swyxio/devtools-angels` is his.
+  **NB for future passes:** the 2026-08-02 scoping pass in `conorbronsdon/personal-context`
+  issue #130 listed Klein as clearing the bar. That verdict tested criterion 3 (activity)
+  and never tested criterion 1 (personal capital). Corrected here.
+
 - **Steven Tey** (Founder/CEO, Dub.co; ex-Vercel Senior Developer Advocate) — no evidence
   found of him being an active angel investor anywhere except the aiangels.fund bio
   itself (which per the source-license guard can't be used as evidence). Likely accurate

@@ -8,7 +8,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
-**41 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
+**42 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
 
 </div>
 
@@ -28,7 +28,7 @@ Open a PR that adds one row to the table, with a source link for the activity cl
 
 ## Focus areas
 
-AI infra 26 · devtools 18 · applied AI 27 — many angels span more than one, so these overlap rather than sum to 41. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 27 · devtools 19 · applied AI 27 — many angels span more than one, so these overlap rather than sum to 42. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 ## The list
 
@@ -36,6 +36,7 @@ AI infra 26 · devtools 18 · applied AI 27 — many angels span more than one, 
 |------|-------|-----------|-------|-------|------------------------|---------------|
 | [Aaron Levie](https://x.com/levie) | AI infra, enterprise AI, security | — | — | [@levie](https://x.com/levie) | Socket, Method Security, Antimetal | 2025-11 ([source](https://www.hustlefund.vc/post/angel-squad-aaron-levie-investments-what-boxs-co-founder-looks-for-when-writing-checks)) |
 | [Aditya Agarwal](https://southparkcommons.com) | AI infra, data infrastructure | — | pre-seed to Series C | [southparkcommons.com](https://southparkcommons.com) | Bauplan, Lica World | 2025-05 ([source](https://tracxn.com/d/people/aditya-agarwal/__Xrv5waEPGzxL3Vv4sOHEZbf69KucXEyZE_MTIy9tcLM)) |
+| [Ahmad Awais](https://ahmadawais.com) | AI devtools, AI infra | — | — | [ahmadawais.com](https://ahmadawais.com) · [@MrAhmadAwais](https://x.com/MrAhmadAwais) | Replit, Daytona, Resend, Gumroad | 2026-08 ([source](https://ahmadawais.com/)) |
 | [Amjad Masad](https://replit.com) | applied AI, AI infra, devtools | — | — | [@amasad](https://x.com/amasad) · [replit.com](https://replit.com) | Synthesia, Runway, Granola, 1001 AI | 2025-11 ([source](https://tracxn.com/d/people/amjad-masad/__5qCpgiGyOlrP3O0ADNifxEEk5zbeE5WVFa_KtaAaImo)) |
 | [Anjney Midha](https://x.com/anjneymidha) | AI infra, compute | — | — | [@anjneymidha](https://x.com/anjneymidha) | Anthropic (angel, pre-a16z), Mistral AI, Black Forest Labs | 2025-10 ([source](https://suttonprep.substack.com/p/anjney-midha-launches-his-own-venture)) |
 | [Balaji Srinivasan](https://x.com/balajis) | AI infra, applied AI | — | seed | [@balajis](https://x.com/balajis) | Perplexity, Replit, Anduril | 2026-04 ([source](https://tracxn.com/d/people/balaji-srinivasan/__ubKup8fdKovKyj_0LRNSMOLIu4OU-1kcjMhQHDzl2zM)) |
