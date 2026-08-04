@@ -1,0 +1,111 @@
+name: Announce Draft
+
+# When a new angel row lands on main, file a draft announcement tweet as an
+# issue in conorbronsdon/social-pipeline (labels: ai-angels + draft). The
+# convention in maintenance/coverage-notes.md is the spec; this workflow only
+# executes it. It drafts and files — it NEVER posts, and the "why they're
+# worth following" line is a placeholder by design (writing it by hand is the
+# convention's last check on whether the entry clears the bar).
+#
+# Needs one secret: SOCIAL_PIPELINE_TOKEN — a fine-grained PAT, resource owner
+# conorbronsdon, single repository social-pipeline, permission Issues: Read and
+# write. Without it the job fails loudly at the filing step and every draft is
+# still recoverable from the run's step summary.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/angels.json"
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Angel name to (re)draft (must match a row in data/angels.json)"
+        required: true
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    env:
+      # secrets are invalid in step/job `if:` (silent startup_failure) — gate
+      # steps on this env boolean instead.
+      HAS_TOKEN: ${{ secrets.SOCIAL_PIPELINE_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Resolve the merged PR author (for the thanks line)
+        id: author
+        if: github.event_name == 'push'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            try {
+              const res = await github.rest.repos.listPullRequestsAssociatedWithCommit({
+                owner: context.repo.owner, repo: context.repo.repo,
+                commit_sha: context.sha,
+              });
+              const merged = res.data.find(p => p.merged_at);
+              core.setOutput("login", merged ? merged.user.login : "");
+            } catch (e) {
+              core.warning(`author lookup failed, skipping thanks line: ${e.message}`);
+              core.setOutput("login", "");
+            }
+
+      - name: Build drafts
+        id: drafts
+        env:
+          ANNOUNCE_PR_AUTHOR: ${{ steps.author.outputs.login }}
+          DISPATCH_NAME: ${{ inputs.name }}
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            out=$(node scripts/announce-draft.mjs --name "$DISPATCH_NAME" data/angels.json)
+          else
+            git show HEAD~1:data/angels.json > /tmp/old-angels.json
+            out=$(node scripts/announce-draft.mjs --diff /tmp/old-angels.json data/angels.json)
+          fi
+          echo "drafts=$out" >> "$GITHUB_OUTPUT"
+          # Every draft goes in the step summary so nothing is lost even if
+          # filing fails (missing secret, API error).
+          node -e '
+            const d = JSON.parse(process.argv[1]);
+            const fs = require("fs");
+            const out = d.length
+              ? d.map(x => `## ${x.title}\n\n${x.body}`).join("\n\n---\n\n")
+              : "No new rows — nothing to draft.";
+            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, out + "\n");
+          ' "$out"
+
+      - name: Fail loudly if the token is missing
+        if: env.HAS_TOKEN != 'true' && steps.drafts.outputs.drafts != '[]'
+        run: |
+          echo "::error::SOCIAL_PIPELINE_TOKEN is not set — drafts were NOT filed. They are in this run's step summary; copy by hand or set the secret and re-run via workflow_dispatch."
+          exit 1
+
+      - name: File draft issues in social-pipeline
+        if: env.HAS_TOKEN == 'true' && steps.drafts.outputs.drafts != '[]'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.SOCIAL_PIPELINE_TOKEN }}
+          script: |
+            const drafts = JSON.parse(${{ toJSON(steps.drafts.outputs.drafts) }});
+            for (const d of drafts) {
+              // Idempotency: skip if an open draft with this title already exists.
+              const q = `repo:conorbronsdon/social-pipeline is:issue is:open in:title "${d.name}" label:ai-angels`;
+              const existing = await github.rest.search.issuesAndPullRequests({ q });
+              if (existing.data.total_count > 0) {
+                core.info(`skip (already open): ${d.title}`);
+                continue;
+              }
+              const issue = await github.rest.issues.create({
+                owner: "conorbronsdon", repo: "social-pipeline",
+                title: d.title, body: d.body, labels: ["ai-angels", "draft"],
+              });
+              core.notice(`filed: ${issue.data.html_url}`);
+            }
