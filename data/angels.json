@@ -591,6 +591,20 @@
     ]
   },
   {
+    "name": "Pawan Deshpande",
+    "what_they_do": "Founder of Curata and a product leader at AI companies including Scale AI, Domino Data Lab and Galileo; writes personal pre-seed and seed angel checks through Curata Ventures.",
+    "focus": "AI infra, devtools, B2B applied AI, AI rollups",
+    "check_size": "$25K-$150K",
+    "stage": "pre-seed, seed, Series A",
+    "reach": "x.com/idlivada; curata.com",
+    "notable_ai_investments": ["Anthropic", "Paladin Drones"],
+    "last_verified_activity": "2026-08 — current self-published \"Currently Investing In What's Next\" statement on curata.com (pre-seed/seed, AI/ML and B2B SaaS), alongside a portfolio section naming Anthropic, Paladin Drones, Rocksalt, Customers.ai, Falkonry and LinkSquares. Most recent dated check on his NFX Signal profile is Rocksalt's seed round (Jul 2025). NB: the curata.com portfolio is client-side rendered, so it is not visible to a plain curl.",
+    "source_urls": [
+      "https://curata.com/",
+      "https://signal.nfx.com/investors/pawan-deshpande"
+    ]
+  },
+  {
     "name": "Nick Cobb",
     "what_they_do": "Self-taught engineer and operator; led Product and Engineering at Uber, Uber Eats and Kyte, now founder of HoneyBee. Invests personally through the Loyalty Ventures syndicate, which he runs solo.",
     "focus": "American Dynamism, healthcare, applied AI",
