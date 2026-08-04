@@ -110,6 +110,8 @@ Reviewed weekly. PRs meeting the criteria merge fast.
 
 Maintain a list in this space? Open an issue — happy to cross-link.
 
+If you're an angel on this list and want inbound beyond a directory row: [OpenVC](https://www.openvc.app) profiles take direct submissions from founders — [here's mine](https://www.openvc.app/fund/Conor%20Bronsdon) as an example. (This list stays independent of OpenVC and copies nothing from it; the pointer is for you, not for us.)
+
 ## Disclaimer
 
 A listing is not an endorsement, and nothing here is investment or fundraising advice. All data is compiled from public sources; corrections welcome via issue or PR.
