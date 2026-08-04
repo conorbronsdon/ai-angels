@@ -12,6 +12,12 @@ candidate new leads. Of those, 1 (Elad Gil) cleared the verification bar and shi
 was deferred rather than rejected outright — they may clear the bar on a future pass with
 more digging (especially anyone with a Crunchbase/PitchBook paywall in the way).
 
+**Maintenance rule (added 2026-08-04):** when a lead merges to the list, convert its entry
+to a MERGED tombstone (keep any research worth preserving, e.g. disambiguation warnings)
+in the same pass as the merge. Automated seeding reads this file as the source of open
+verification work — a stale "still deferred" entry for a merged name produces a wrong
+public ask (that exact miss happened with issue #12).
+
 ## Deferred — thin or stale evidence
 
 - **Nitesh Banta** (B12 CEO; angel at Stellar Capital) — closest to clearing of the group.
@@ -44,18 +50,11 @@ more digging (especially anyone with a Crunchbase/PitchBook paywall in the way).
   Supabase, Vercel, Windsurf) explicitly as Basecase Capital partnerships, not personal
   checks. Still deferred on both the personal-capital and freshness bar.
 
-- **Ahmad Awais** (Founder/CEO, CommandCode.ai f/k/a Langbase; ex-VP DX at Rapid) — self-
-  described "AI/ML/DevTools Angel Investor" (Replit, Resend, Daytona, Gumroad), but no
-  dates attached to any of those on his own site or Crunchbase; his Daytona position
-  isn't in Daytona's own public angel list for its Series A round. Note: search engines
-  repeatedly confuse him with a different person, **Awais Ahmed** (Pixxel founder, India),
-  who has real, well-dated 2025/2026 investments (Alt Carbon, Aspera Industries, Pramatra
-  Space) — those belong to the other person, not this lead. Flag for anyone doing a
-  follow-up pass: check name-order carefully.
-  **Re-checked 2026-07-08:** fetched ahmadawais.com directly — still self-describes as "a
-  smol early angel investor in resend, gumroad & others" with no dates attached to any deal,
-  and no fresher dated investment surfaced anywhere else. Disambiguation from Awais Ahmed
-  (Pixxel) held cleanly again this pass. Still deferred for lack of a date.
+- **Ahmad Awais — MERGED 2026-08-03 (PR #4).** Row is live on the list; this entry stays
+  only for its disambiguation warning: search engines repeatedly confuse him with a
+  different person, **Awais Ahmed** (Pixxel founder, India), whose well-dated 2025/2026
+  investments (Alt Carbon, Aspera Industries, Pramatra Space) belong to the other person.
+  Anyone re-verifying the Awais row at the 18-month bar: check name-order carefully.
 
 - **Beyang Liu** (Sourcegraph co-founder/CTO, now building Amp) — has angel-invested (per
   PitchBook/Tracxn, in Replay and Wasmer), but the only dated investment found was Sep 1,
