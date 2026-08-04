@@ -101,6 +101,15 @@ Contact details are limited to channels the person publishes for pitches (their 
 
 Reviewed weekly. PRs meeting the criteria merge fast.
 
+## Related lists
+
+- [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) — the 2021-era devtools list this one succeeds; archived, and its README points here.
+- [Nutlope/aiangels](https://github.com/Nutlope/aiangels) — the original AI angels list, inactive since 2024.
+- [Nutlope/devtool-angels](https://github.com/Nutlope/devtool-angels) / [devtoolangels.com](https://www.devtoolangels.com) — active, devtools-scoped.
+- [Mercury's investor database](https://mercury.com/investor-database) and [vcsheet.com](https://www.vcsheet.com) — broader fundraising directories this list cross-references as sources.
+
+Maintain a list in this space? Open an issue — happy to cross-link.
+
 ## Disclaimer
 
 A listing is not an endorsement, and nothing here is investment or fundraising advice. All data is compiled from public sources; corrections welcome via issue or PR.
