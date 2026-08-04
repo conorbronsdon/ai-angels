@@ -110,7 +110,7 @@ Reviewed weekly. PRs meeting the criteria merge fast.
 
 Maintain a list in this space? Open an issue — happy to cross-link.
 
-If you're an angel on this list and want inbound beyond a directory row: [OpenVC](https://www.openvc.app) profiles take direct submissions from founders — [here's mine](https://www.openvc.app/fund/Conor%20Bronsdon) as an example. (This list stays independent of OpenVC and copies nothing from it; the pointer is for you, not for us.)
+If you're an angel on this list and want inbound beyond a directory row: [OpenVC](https://www.openvc.app), [Signal](https://signal.nfx.com), and [Crunchbase](https://www.crunchbase.com) profiles all put you in front of founders directly — as examples, here's mine on each: [OpenVC](https://www.openvc.app/fund/Conor%20Bronsdon), [Signal](https://signal.nfx.com/investors/conor-bronsdon), [Crunchbase](https://www.crunchbase.com/person/conor-bronsdon-1e21). A maintained profile with dated deals also keeps your row here easy to re-verify against the 18-month bar. (This list stays independent of all three — a row may cite your profile as evidence, but nothing is bulk-imported from any directory; the pointers are for you, not for us.)
 
 ## Disclaimer
 
