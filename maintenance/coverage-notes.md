@@ -18,6 +18,10 @@ the change is announced anywhere else:
   the tweet and the row can't drift apart.
 - **Say what makes them worth following**, in one line — the thing that made them clear the bar.
 - **Link the repo.**
+- **End with the contribution invite**: "know an AI angel who belongs here? add them (or yourself)" —
+  every announcement rides the list's only working growth loop, so each one should also open the door.
+- **Credit the contributor** when the row came from an external PR: tag their handle in the same
+  tweet. Public credit is the incentive that brings second PRs; never make a tweet a merge condition.
 
 Draft the tweet at the same time as the row, not after. Two reasons: the tweet is the growth loop for
 the list (a tagged angel is the most likely person to repost it), and writing the "why they're worth
