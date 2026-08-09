@@ -1,0 +1,58 @@
+name: Deploy explorer to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/angels.json'
+      - 'site/**'
+      - 'scripts/validate-explorer.mjs'
+      - '.github/workflows/deploy-explorer.yml'
+  pull_request:
+    paths:
+      - 'data/angels.json'
+      - 'site/**'
+      - 'scripts/validate-explorer.mjs'
+      - '.github/workflows/deploy-explorer.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/validate-explorer.mjs
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p _site/data
+          cp site/index.html site/app.js site/data-model.mjs site/styles.css _site/
+          cp data/angels.json _site/data/angels.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
