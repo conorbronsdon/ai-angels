@@ -1,12 +1,13 @@
-const MONTH = /^(\d{4})-(\d{2})/;
+const DATE_PREFIX = /^(\d{4})(?:-(0[1-9]|1[0-2]))?(?!\d)/;
 
 export function verifiedMonth(value) {
-  const match = String(value || '').match(MONTH);
+  const match = String(value || '').match(DATE_PREFIX);
   if (!match) return null;
   const year = Number(match[1]);
-  const month = Number(match[2]);
-  if (month < 1 || month > 12) return null;
-  return { year, month, key: year * 12 + month };
+  // Some records intentionally cite only a verification year. Treat those as
+  // January so the freshness badge errs toward earlier review, not false precision.
+  const month = match[2] ? Number(match[2]) : 1;
+  return { year, month, precision: match[2] ? 'month' : 'year', key: year * 12 + month };
 }
 
 export function freshness(value, now = new Date()) {
