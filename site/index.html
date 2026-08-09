@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Explore active AI angel investors by focus, stage, check-size disclosure, and evidence freshness. Every entry links to public verification.">
+    <meta name="theme-color" content="#f5f0e7">
+    <title>AI Angels — verified, current, founder-friendly</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#results">Skip to results</a>
+    <header class="masthead">
+      <nav aria-label="Primary">
+        <a class="wordmark" href="https://github.com/conorbronsdon/ai-angels">AI Angels</a>
+        <a href="https://github.com/conorbronsdon/ai-angels#add-an-angel">Add or correct an entry ↗</a>
+      </nav>
+      <div class="hero">
+        <p class="eyebrow">A maintained public dataset</p>
+        <h1>Find an AI angel whose interests match what you’re building.</h1>
+        <p class="lede">Search and filter active investors without surrendering provenance. Every result carries its public source and last-verified date.</p>
+        <div class="trust-strip" aria-label="Dataset standards">
+          <span><strong id="angel-count">—</strong> verified angels</span>
+          <span><strong>18 months</strong> maximum evidence age</span>
+          <span><strong>0</strong> scraped emails</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="finder" aria-labelledby="finder-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Founder finder</p>
+            <h2 id="finder-title">Narrow the list</h2>
+          </div>
+          <button id="reset" class="quiet-button" type="button">Reset filters</button>
+        </div>
+
+        <form id="filters" class="filters" role="search">
+          <label class="search-field">
+            <span>Search people, focus areas, or investments</span>
+            <input id="query" type="search" autocomplete="off" placeholder="Try “developer tools” or “Perplexity”">
+          </label>
+          <label>
+            <span>Focus</span>
+            <select id="focus"><option value="">All focus areas</option></select>
+          </label>
+          <label>
+            <span>Stage</span>
+            <select id="stage">
+              <option value="">All stages</option>
+              <option value="pre-seed">Pre-seed</option>
+              <option value="seed">Seed</option>
+              <option value="series a">Series A</option>
+              <option value="series b+">Series B+</option>
+              <option value="unspecified">Not publicly specified</option>
+            </select>
+          </label>
+          <label>
+            <span>Check size</span>
+            <select id="check-size">
+              <option value="">Any disclosure</option>
+              <option value="published">Publicly stated</option>
+              <option value="unpublished">Not publicly stated</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort">
+              <option value="freshness">Most recently verified</option>
+              <option value="name">Name A–Z</option>
+            </select>
+          </label>
+        </form>
+      </section>
+
+      <section id="results" class="results" aria-labelledby="results-title">
+        <div class="results-heading">
+          <h2 id="results-title">Results</h2>
+          <p id="result-count" role="status" aria-live="polite">Loading verified entries…</p>
+        </div>
+        <div id="cards" class="card-grid"></div>
+        <div id="empty" class="empty" hidden>
+          <h3>No exact match</h3>
+          <p>Try a broader focus or clear one of the filters. Missing someone? Add a sourced entry through GitHub.</p>
+        </div>
+        <noscript><p class="empty">This explorer needs JavaScript. The complete sourced list remains available in the <a href="https://github.com/conorbronsdon/ai-angels#the-list">GitHub README</a>.</p></noscript>
+      </section>
+
+      <section class="method" aria-labelledby="method-title">
+        <div>
+          <p class="eyebrow">Why this list stays useful</p>
+          <h2 id="method-title">Evidence has an expiration date.</h2>
+        </div>
+        <div class="method-grid">
+          <article><span>01</span><h3>Personally directed capital</h3><p>Fund partners belong only when they also write personal checks or lead a personal syndicate.</p></article>
+          <article><span>02</span><h3>Demonstrated AI focus</h3><p>Entries reflect actual investments across infrastructure, tools, agents, models, and applied AI.</p></article>
+          <article><span>03</span><h3>Current public evidence</h3><p>Every row must link to investing activity or an active-investor statement from the last 18 months.</p></article>
+          <article><span>04</span><h3>Founder-respecting reach</h3><p>Only pitch channels people publish themselves. No scraped emails or inferred private contact details.</p></article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>A listing is not an endorsement or investment advice. Corrections and opt-outs are honored through the repository.</p>
+      <p><a href="https://github.com/conorbronsdon/ai-angels">Data, methodology, and contributions on GitHub ↗</a></p>
+    </footer>
+  </body>
+</html>
