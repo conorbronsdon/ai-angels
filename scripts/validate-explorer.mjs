@@ -16,7 +16,7 @@ for (const raw of data) {
   assert(row.what_they_do, `${row.name}: what_they_do is required`);
   assert(row.focus, `${row.name}: focus is required`);
   assert(row.reach, `${row.name}: public reach field is required`);
-  assert(verifiedMonth(row.last_verified_activity), `${row.name}: last_verified_activity must begin YYYY-MM`);
+  assert(verifiedMonth(row.last_verified_activity), `${row.name}: last_verified_activity must begin YYYY or YYYY-MM`);
   assert(row.source_urls.length > 0, `${row.name}: at least one public source is required`);
   for (const source of row.source_urls) {
     const url = new URL(source);
