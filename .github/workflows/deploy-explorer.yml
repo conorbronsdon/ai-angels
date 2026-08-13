@@ -7,12 +7,14 @@ on:
       - 'data/angels.json'
       - 'site/**'
       - 'scripts/validate-explorer.mjs'
+      - 'scripts/explorer.test.mjs'
       - '.github/workflows/deploy-explorer.yml'
   pull_request:
     paths:
       - 'data/angels.json'
       - 'site/**'
       - 'scripts/validate-explorer.mjs'
+      - 'scripts/explorer.test.mjs'
       - '.github/workflows/deploy-explorer.yml'
   workflow_dispatch:
 
@@ -32,6 +34,7 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/validate-explorer.mjs
+      - run: node --test scripts/explorer.test.mjs
 
   deploy:
     if: github.event_name != 'pull_request'

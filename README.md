@@ -8,7 +8,9 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
-**44 angels · every entry publicly verified within 18 months · last-verified date + source on every row**
+[**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
+
+**44 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
