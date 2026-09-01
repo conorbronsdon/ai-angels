@@ -617,5 +617,18 @@
       "https://cobbler.ws/",
       "https://loyaltyventures.vc/"
     ]
+  },
+  {
+    "name": "Nikitha Suryadevara",
+    "what_they_do": "Angel investor in AI infrastructure and developer tools; writes personal checks up to $50K into pre-seed through Series A rounds.",
+    "focus": "AI infra, devtools",
+    "check_size": "up to $50K",
+    "stage": "pre-seed, seed, Series A",
+    "reach": "nikitha.co; x.com/__nikitha",
+    "notable_ai_investments": ["fal.ai", "Trajectory", "Browserbase"],
+    "last_verified_activity": "2026-08 — self-published investing page on nikitha.co",
+    "source_urls": [
+      "https://nikitha.co/investing/"
+    ]
   }
 ]

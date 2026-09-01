@@ -10,7 +10,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
 
-**44 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
+**46 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
@@ -30,7 +30,7 @@ Open a PR that adds one row to the table, with a source link for the activity cl
 
 ## Focus areas
 
-AI infra 29 · devtools 21 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 45. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 46. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 ## The list
 
@@ -71,6 +71,7 @@ AI infra 29 · devtools 21 · applied AI 29 — many angels span more than one, 
 | [Nat Friedman](https://x.com/natfriedman)† | AI infra, applied AI | — | — | [@natfriedman](https://x.com/natfriedman) | Perplexity, Stripe (early), Sumble | 2025-10 ([source](https://www.datacenterdynamics.com/en/news/meta-in-talks-to-partially-acquire-vc-fund-nfdg-hire-nat-friedman-and-daniel-gross-for-ai-shakeup/)) |
 | [Naval Ravikant](https://x.com/naval) | applied AI, AI infra | — | — | [@naval](https://x.com/naval) · [angel.co](https://angel.co) | Perplexity, OpenSea, Notion | 2026-02 ([source](https://tracxn.com/d/people/naval-ravikant/__zjY_8gmflKDzBLSv520Gkf9qM24BNrfFb_Vo_boSVAQ)) |
 | [Nick Cobb](https://cobbler.ws) | American Dynamism, healthcare, applied AI | — | post-revenue, seed & early | [cobbler.ws](https://cobbler.ws) · [@loyaltyarm](https://x.com/loyaltyarm) | Copy.ai, fireflies.ai, Placer.ai, Teleskope | 2026-08 ([source](https://cobbler.ws/)) |
+| [Nikitha Suryadevara](https://nikitha.co) | AI infra, devtools | up to $50K | pre-seed, seed, Series A | [@__nikitha](https://x.com/__nikitha) · [nikitha.co](https://nikitha.co) | fal.ai, Trajectory, Browserbase | 2026-08 ([source](https://nikitha.co/investing/)) |
 | [Paul Copplestone](https://x.com/kiwicopple) | AI infra, devtools | — | — | [@kiwicopple](https://x.com/kiwicopple) | Mistral AI, Lovable, AgentMail | 2026-03 ([source](https://tracxn.com/d/people/paul-copplestone/__8zdFmWFh4rsqqcn6VrICAx-JXQVemr3jgOY0pnRTPck)) |
 | [Pawan Deshpande](https://curata.com/) | AI infra, devtools, B2B applied AI, AI rollups | $25K-$150K ($50K sweet spot, per his NFX Signal profile) | pre-seed, seed, Series A | [@idlivada](https://x.com/idlivada) · [curata.com](https://curata.com) | Anthropic, Paladin Drones | 2026-08 ([source](https://curata.com/)) |
 | [Rahul Vohra](https://toddandrahulangelfund.com) | devtools, applied AI, SaaS | $300K-$500K (fund's stated check range) | early-stage | [toddandrahulangelfund.com](https://toddandrahulangelfund.com) | Supabase, Mercury, Clearbit | 2025-12 ([source](https://www.toddandrahulangelfund.com/)) |
