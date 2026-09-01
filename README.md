@@ -10,7 +10,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
 
-**45 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
+**46 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
@@ -30,7 +30,7 @@ Open a PR that adds one row to the table, with a source link for the activity cl
 
 ## Focus areas
 
-AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 45. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 46. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 ## The list
 
