@@ -646,5 +646,18 @@
       "https://polar.sh/blog/polar-seed-announcement",
       "https://steventey.com/"
     ]
+  },
+  {
+    "name": "Alexander Nevedovsky",
+    "what_they_do": "AI founder at Audos; his personal site invites AI-native founders to approach him for angel investment.",
+    "focus": "applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "ednevsky.com",
+    "notable_ai_investments": [],
+    "last_verified_activity": "2026-09 - current personal invitation to AI-native founders for angel investment; reviewed 2026-09-04",
+    "source_urls": [
+      "https://ednevsky.com/"
+    ]
   }
 ]
