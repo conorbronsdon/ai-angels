@@ -20,8 +20,18 @@ export function freshness(value, now = new Date()) {
   return { ageMonths, tone: 'current', label: 'Current evidence' };
 }
 
+const PHYSICAL_AI = 'physical AI / robotics';
+
+function focusBuckets(focus) {
+  const terms = String(focus || '').split(',').map((term) => term.trim()).filter(Boolean);
+  if (terms.some((term) => ['physical ai', 'robotics'].includes(term.toLowerCase()))) {
+    terms.push(PHYSICAL_AI);
+  }
+  return [...new Set(terms)];
+}
+
 export function focusTerms(rows) {
-  return [...new Set(rows.flatMap((row) => String(row.focus || '').split(',').map((term) => term.trim()).filter(Boolean)))]
+  return [...new Set(rows.flatMap((row) => focusBuckets(row.focus)))]
     .sort((a, b) => a.localeCompare(b));
 }
 
@@ -80,7 +90,7 @@ export function filterAngels(rows, filters) {
   const query = filters.query.trim().toLowerCase();
   return rows.filter((row) => {
     if (query && !row.searchText.includes(query)) return false;
-    if (filters.focus && !row.focus.toLowerCase().split(',').map((x) => x.trim()).includes(filters.focus.toLowerCase())) return false;
+    if (filters.focus && !focusBuckets(row.focus).map((term) => term.toLowerCase()).includes(filters.focus.toLowerCase())) return false;
     if (filters.stage && !row.stageBuckets.includes(filters.stage)) return false;
     if (filters.checkSize === 'published' && !row.check_size) return false;
     if (filters.checkSize === 'unpublished' && row.check_size) return false;

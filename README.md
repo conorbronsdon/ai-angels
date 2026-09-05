@@ -38,6 +38,8 @@ Prefer a PR? See [CONTRIBUTING.md](CONTRIBUTING.md) for the data and table forma
 
 AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 46. Counts regenerate from [`data/angels.json`](data/angels.json).
 
+The explorer’s **physical AI / robotics** filter groups entries with an explicit physical AI or robotics focus. For field-operations software, check the listed investments for fit; the group does not imply a general field-operations thesis.
+
 ## The list
 
 | Name | Focus | Check size | Stage | Reach | Notable AI investments | Last verified |
