@@ -12,7 +12,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [**Suggest yourself or an angel**](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml)
 
-**49 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
+**50 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
@@ -36,7 +36,7 @@ Prefer a PR? See [CONTRIBUTING.md](CONTRIBUTING.md) for the data and table forma
 
 ## Focus areas
 
-AI infra 30 · devtools 22 · applied AI 31 — many angels span more than one, so these overlap rather than sum to 49. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 31 · devtools 22 · applied AI 31 — many angels span more than one, so these overlap rather than sum to 50. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 The explorer’s **physical AI / robotics** filter groups entries with an explicit physical AI or robotics focus. For field-operations software, check the listed investments for fit; the group does not imply a general field-operations thesis.
 
@@ -83,6 +83,7 @@ The explorer’s **physical AI / robotics** filter groups entries with an explic
 | [Nikitha Suryadevara](https://nikitha.co) | AI infra, devtools | up to $50K | pre-seed, seed, Series A | [@__nikitha](https://x.com/__nikitha) · [nikitha.co](https://nikitha.co) | fal.ai, Trajectory, Browserbase | 2026-08 ([source](https://nikitha.co/investing/)) |
 | [Nitesh Banta](https://nbanta.com) | applied AI | — | — | [nbanta.com](https://nbanta.com) | Howie | 2026-02 ([source](https://signal.nfx.com/investors/nitesh-banta)) |
 | [Paul Copplestone](https://x.com/kiwicopple) | AI infra, devtools | — | — | [@kiwicopple](https://x.com/kiwicopple) | Mistral AI, Lovable, AgentMail | 2026-03 ([source](https://tracxn.com/d/people/paul-copplestone/__8zdFmWFh4rsqqcn6VrICAx-JXQVemr3jgOY0pnRTPck)) |
+| [Paul Klein IV](https://hawkhill.ventures) | AI infra, agents | — | — | [hawkhill.ventures](https://hawkhill.ventures) | Natural | 2026-07 ([source](https://www.natural.com/blog/natural-series-a)) |
 | [Pawan Deshpande](https://curata.com/) | AI infra, devtools, B2B applied AI, AI rollups | $25K-$150K ($50K sweet spot, per his NFX Signal profile) | pre-seed, seed, Series A | [@idlivada](https://x.com/idlivada) · [curata.com](https://curata.com) | Anthropic, Paladin Drones | 2026-08 ([source](https://curata.com/)) |
 | [Rahul Vohra](https://toddandrahulangelfund.com) | devtools, applied AI, SaaS | $300K-$500K (fund's stated check range) | early-stage | [toddandrahulangelfund.com](https://toddandrahulangelfund.com) | Supabase, Mercury, Clearbit | 2025-12 ([source](https://www.toddandrahulangelfund.com/)) |
 | [Sahil Lavingia](https://sahillavingia.com) | applied AI, creator tools | — | pre-seed, seed | [sahillavingia.com](https://sahillavingia.com) · [@shl](https://x.com/shl) | Monumental Labs, Notion | 2025-10 ([source](https://tracxn.com/d/people/sahil-lavingia/__hTcSXob0ZSJTKuWtVn0Yn1wsgwOoi9no-3SqYxTTJLY)) |
