@@ -1,14 +1,16 @@
-name: Suggest an angel
-description: Someone who belongs on the list, when you'd rather not open a pull request.
+name: Suggest yourself or an angel
+description: Share an active AI angel and a public source. We handle the directory update.
 title: "Suggest: "
 labels: ["suggestion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Suggesting yourself is welcome and gets the same verification bar as anyone else.
+        Suggest yourself or someone founders should know about. Share what you know below; the maintainer reviews the evidence and adds approved entries.
 
-        Three things get suggestions declined, so they're worth checking first: personal capital (fund partners deploying only fund money belong in a VC directory), a stated or demonstrated AI focus, and public evidence of a check inside the last 18 months. An exit is not a check.
+        Submitting requires a GitHub account and creates a public GitHub issue. Use public information only.
+
+        We list people who write personal angel checks or lead a personal fund or syndicate, have an AI focus, and have public evidence of investing activity within the last 18 months. A current statement that they are actively investing also qualifies.
   - type: input
     id: name
     attributes:
@@ -19,7 +21,7 @@ body:
     id: focus
     attributes:
       label: Focus
-      description: Two to four words. What they actually invest in, not aspirations.
+      description: The AI areas they invest in, such as infrastructure, developer tools, or applied AI.
       placeholder: AI infra, devtools
     validations:
       required: true
@@ -33,10 +35,10 @@ body:
   - type: input
     id: investments
     attributes:
-      label: Notable AI investments
-      description: Two to four, publicly verifiable.
+      label: Notable AI investments (optional)
+      description: Share publicly announced investments if you know them. Links are helpful.
     validations:
-      required: true
+      required: false
   - type: input
     id: source
     attributes:

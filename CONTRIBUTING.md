@@ -1,8 +1,16 @@
 # Contributing
 
-## Adding an angel (including yourself)
+## Suggest yourself or an angel
 
-One entry per PR. Add a row to the table in README.md, keeping alphabetical order by first name:
+[Open the suggestion form](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml). It creates a public GitHub issue, so you will need a GitHub account. Share the name, AI focus, public pitch channel, and a source for recent investing activity. Notable investments are helpful if you know them. The maintainer reviews the evidence and adds approved entries.
+
+Use public information only. Self-suggestions are welcome and follow the same inclusion criteria.
+
+## Prefer a pull request?
+
+One entry per PR. Add the record to `data/angels.json` using the existing field structure, and add the matching row to `README.md`, keeping the table in alphabetical order by first name. Keep the README total and focus counts consistent with the data.
+
+Example README row:
 
 ```markdown
 | [Name](https://their-site.com) | AI infra, devtools | $25k–$100k | Pre-seed, seed | [@handle](https://x.com/handle) | Company A, Company B | 2026-07 ([source](https://link-to-evidence)) |
