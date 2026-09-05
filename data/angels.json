@@ -659,5 +659,23 @@
     "source_urls": [
       "https://ednevsky.com/"
     ]
+  },
+  {
+    "name": "Nitesh Banta",
+    "what_they_do": "B12 co-founder and CEO; his personal site describes ongoing angel investing, with recent AI investments recorded in public investor profiles.",
+    "focus": "applied AI",
+    "check_size": null,
+    "stage": null,
+    "reach": "nbanta.com",
+    "notable_ai_investments": [
+      "Howie"
+    ],
+    "last_verified_activity": "2026-02 - Pelgo seed participation recorded by Signal and Crunchbase",
+    "source_urls": [
+      "https://www.nbanta.com/",
+      "https://signal.nfx.com/investors/nitesh-banta",
+      "https://www.crunchbase.com/person/nitesh-banta",
+      "https://howie.com/"
+    ]
   }
 ]
