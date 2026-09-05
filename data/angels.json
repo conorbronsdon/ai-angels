@@ -630,5 +630,21 @@
     "source_urls": [
       "https://nikitha.co/investing/"
     ]
+  },
+  {
+    "name": "Steven Tey",
+    "what_they_do": "Founder and CEO of Dub; angel investor in developer infrastructure for AI-native software.",
+    "focus": "devtools",
+    "check_size": null,
+    "stage": null,
+    "reach": "steventey.com",
+    "notable_ai_investments": [
+      "Polar"
+    ],
+    "last_verified_activity": "2025-06 - named angel in Polar's seed announcement",
+    "source_urls": [
+      "https://polar.sh/blog/polar-seed-announcement",
+      "https://steventey.com/"
+    ]
   }
 ]

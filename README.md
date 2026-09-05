@@ -12,7 +12,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [**Suggest yourself or an angel**](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml)
 
-**46 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
+**47 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
@@ -36,7 +36,7 @@ Prefer a PR? See [CONTRIBUTING.md](CONTRIBUTING.md) for the data and table forma
 
 ## Focus areas
 
-AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 46. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 30 · devtools 22 · applied AI 29 — many angels span more than one, so these overlap rather than sum to 47. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 The explorer’s **physical AI / robotics** filter groups entries with an explicit physical AI or robotics focus. For field-operations software, check the listed investments for fit; the group does not imply a general field-operations thesis.
 
@@ -85,6 +85,7 @@ The explorer’s **physical AI / robotics** filter groups entries with an explic
 | [Rahul Vohra](https://toddandrahulangelfund.com) | devtools, applied AI, SaaS | $300K-$500K (fund's stated check range) | early-stage | [toddandrahulangelfund.com](https://toddandrahulangelfund.com) | Supabase, Mercury, Clearbit | 2025-12 ([source](https://www.toddandrahulangelfund.com/)) |
 | [Sahil Lavingia](https://sahillavingia.com) | applied AI, creator tools | — | pre-seed, seed | [sahillavingia.com](https://sahillavingia.com) · [@shl](https://x.com/shl) | Monumental Labs, Notion | 2025-10 ([source](https://tracxn.com/d/people/sahil-lavingia/__hTcSXob0ZSJTKuWtVn0Yn1wsgwOoi9no-3SqYxTTJLY)) |
 | [Scott Belsky](https://scottbelsky.com/investing-backup) | applied AI, consumer, creative tools | $50K-$1M (his own stated range) | pre-seed to Series A | [scottbelsky.com/investing-backup](https://scottbelsky.com/investing-backup) | Extend AI, Airtable | 2025-06 ([source](https://www.scottbelsky.com/investing-backup/)) |
+| [Steven Tey](https://steventey.com) | devtools | — | — | [steventey.com](https://steventey.com) | Polar | 2025-06 ([source](https://polar.sh/blog/polar-seed-announcement)) |
 | [swyx (Shawn Wang)](https://swyx.io/portfolio) | devtools, AI infra, applied AI | $5K-$15K personal checks; $25K-$100K scout checks (his own stated ranges) | pre-seed, seed, Series A | [swyx.io/portfolio](https://swyx.io/portfolio) · [@swyx](https://x.com/swyx) | Supabase, Chroma, Confident Security | 2025-07 ([source](https://www.swyx.io/portfolio)) |
 | [Thomas Wolf](https://thomwolf.io) | AI infra, open-source AI, robotics | — | — | [@Thom_Wolf](https://x.com/Thom_Wolf) · [thomwolf.io](https://thomwolf.io) | Lovable, Bioptimus, UMA (humanoid robotics), Qutwo | 2026-07 ([source](https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/)) |
 | [Tobi Lütke](https://x.com/tobi) | applied AI, AI infra | — | seed | [@tobi](https://x.com/tobi) | Perplexity, Promptfoo | 2026-03 ([source](https://www.hustlefund.vc/post/angel-squad-tobi-lutke-investments-what-the-shopify-ceo-bets-on-when-hes-not-reinventing-commerce)) |
