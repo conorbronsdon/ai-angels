@@ -10,6 +10,8 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
 
+[**Suggest yourself or an angel**](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml)
+
 **46 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
@@ -18,15 +20,19 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 Two good lists came before this one and both went quiet — [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) (archived, and now pointing here) and [Nutlope/aiangels](https://github.com/Nutlope/aiangels) (inactive since 2024). This one picks up that work as an independent compilation: every entry is checked against public sources and carries a last-verified date, so you can tell fresh data from stale.
 
-If you came from devtools-angels, most of the names you knew aren't here. That was a 2021-era devtools snapshot; this list requires an AI focus and public evidence of a check inside the last 18 months. A few of those names were re-researched and left off for lack of current evidence, but most simply haven't been worked yet. If you're one of them and still investing, [add yourself](#add-an-angel) — it's one row and a source link.
+If you came from devtools-angels, most of the names you knew aren't here. That was a 2021-era devtools snapshot; this list requires an AI focus and public evidence of a check inside the last 18 months. A few of those names were re-researched and left off for lack of current evidence, but most simply haven't been worked yet. If you're one of them and still investing, [suggest yourself](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml) with a public source for your recent investing activity.
 
 **For founders:** find angels who write checks in your space, with check sizes and how to reach them.
 
-**For angels:** [add yourself](#add-an-angel) with a PR.
+**For angels:** [suggest yourself](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml) using the short GitHub form.
 
 ## Add an angel
 
-Open a PR that adds one row to the table, with a source link for the activity claim. Adding yourself is welcome and encouraged — say so in the PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for the field format.
+**[Suggest yourself or an angel](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml)** with a name, AI focus, public pitch channel, and a source for recent investing activity. Share notable investments if you know them.
+
+The form creates a **public GitHub issue** and requires a GitHub account. The maintainer reviews the evidence and adds approved entries to the directory. Please use public information only.
+
+Prefer a PR? See [CONTRIBUTING.md](CONTRIBUTING.md) for the data and table format.
 
 ## Focus areas
 
