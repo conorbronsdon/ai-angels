@@ -6,13 +6,14 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-angels?style=social)](https://github.com/conorbronsdon/ai-angels/stargazers)
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
+[![Podcast](https://img.shields.io/badge/Podcast-Chain_of_Thought-purple?style=flat-square)](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-angels)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
 [**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
 
 [**Suggest yourself or an angel**](https://github.com/conorbronsdon/ai-angels/issues/new?template=suggest-an-angel.yml)
 
-**50 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
+**51 angels · evidence reviewed on an 18-month cadence · last-verified date + source on every row**
 
 </div>
 
@@ -36,7 +37,7 @@ Prefer a PR? See [CONTRIBUTING.md](CONTRIBUTING.md) for the data and table forma
 
 ## Focus areas
 
-AI infra 31 · devtools 22 · applied AI 31 — many angels span more than one, so these overlap rather than sum to 50. Counts regenerate from [`data/angels.json`](data/angels.json).
+AI infra 32 · devtools 23 · applied AI 31 — many angels span more than one, so these overlap rather than sum to 51. Counts regenerate from [`data/angels.json`](data/angels.json).
 
 The explorer’s **physical AI / robotics** filter groups entries with an explicit physical AI or robotics focus. For field-operations software, check the listed investments for fit; the group does not imply a general field-operations thesis.
 
@@ -90,6 +91,7 @@ The explorer’s **physical AI / robotics** filter groups entries with an explic
 | [Scott Belsky](https://scottbelsky.com/investing-backup) | applied AI, consumer, creative tools | $50K-$1M (his own stated range) | pre-seed to Series A | [scottbelsky.com/investing-backup](https://scottbelsky.com/investing-backup) | Extend AI, Airtable | 2025-06 ([source](https://www.scottbelsky.com/investing-backup/)) |
 | [Steven Tey](https://steventey.com) | devtools | — | — | [steventey.com](https://steventey.com) | Polar | 2025-06 ([source](https://polar.sh/blog/polar-seed-announcement)) |
 | [swyx (Shawn Wang)](https://swyx.io/portfolio) | devtools, AI infra, applied AI | $5K-$15K personal checks; $25K-$100K scout checks (his own stated ranges) | pre-seed, seed, Series A | [swyx.io/portfolio](https://swyx.io/portfolio) · [@swyx](https://x.com/swyx) | Supabase, Chroma, Confident Security | 2025-07 ([source](https://www.swyx.io/portfolio)) |
+| [Tejas Kumar](https://tej.as/investing) | AI infra, devtools | — | early-stage | [tej.as/investing](https://tej.as/investing) · [cal.com/tejask](https://cal.com/tejask/startup-pitch) | OpenPipe, Ravion, OpenSauced | 2026-09 (self-stated) ([source](https://tej.as/investing)) |
 | [Thomas Wolf](https://thomwolf.io) | AI infra, open-source AI, robotics | — | — | [@Thom_Wolf](https://x.com/Thom_Wolf) · [thomwolf.io](https://thomwolf.io) | Lovable, Bioptimus, UMA (humanoid robotics), Qutwo | 2026-07 ([source](https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/)) |
 | [Tobi Lütke](https://x.com/tobi) | applied AI, AI infra | — | seed | [@tobi](https://x.com/tobi) | Perplexity, Promptfoo | 2026-03 ([source](https://www.hustlefund.vc/post/angel-squad-tobi-lutke-investments-what-the-shopify-ceo-bets-on-when-hes-not-reinventing-commerce)) |
 | [Zach Perret](https://x.com/zperret) | applied AI, fintech-adjacent AI | — | — | [@zperret](https://x.com/zperret) | Lassie | 2026-06 ([source](https://tracxn.com/d/people/zach-perret/__uQZfSdJAGSDDGdLeEfk9nCelN0K46VKQ5RVvpquyKE4)) |

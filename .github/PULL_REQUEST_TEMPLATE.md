@@ -18,3 +18,7 @@
 ## Source(s)
 
 <!-- Link(s) verifying the activity claim -->
+
+## How did you find this repo?
+
+<!-- Search, social media, another list, a recommendation, or somewhere else? -->

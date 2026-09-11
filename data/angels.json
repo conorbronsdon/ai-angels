@@ -693,5 +693,23 @@
       "https://www.natural.com/blog/natural-series-a",
       "https://hawkhill.ventures/team"
     ]
+  },
+  {
+    "name": "Tejas Kumar",
+    "what_they_do": "AI engineer at IBM and best selling author of Fluent React (O'Reilly); writes small personal checks into early stage devtools and AI startups, with three of six backed companies acquired, by CoreWeave, the Linux Foundation and Supabase.",
+    "focus": "AI infra, devtools",
+    "check_size": null,
+    "stage": "early-stage",
+    "reach": "tej.as/investing; cal.com/tejask/startup-pitch",
+    "notable_ai_investments": [
+      "OpenPipe",
+      "Ravion",
+      "OpenSauced"
+    ],
+    "last_verified_activity": "2026-09 - current investing statement and open pitch call on his site",
+    "source_urls": [
+      "https://tej.as/investing",
+      "https://tej.as/about"
+    ]
   }
 ]
